@@ -13,9 +13,9 @@ class Navbar extends Component {
             <img src="favicon.ico" alt="" height={40}/> 
             <div>
                 <ul id='navbar' className={this.state.clicked ? "#navbar active" : "#navbar"}>
-                    <li><a href="./personal-portfolio/">Home</a></li>
-                    <li><a href="./personal-portfolio/skills">Skills</a></li>
-                    <li><a href="./personal-portfolio/projects">Projects</a></li>
+                    <li><a href="./">Home</a></li>
+                    <li><a href="./skills">Skills</a></li>
+                    <li><a href="./projects">Projects</a></li>
                 </ul>
             </div>
             <div id="mobile" onClick={this.handleClick}>
