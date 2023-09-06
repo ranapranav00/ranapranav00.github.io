@@ -14,8 +14,8 @@ class Navbar extends Component {
             <div>
                 <ul id='navbar' className={this.state.clicked ? "#navbar active" : "#navbar"}>
                     <li><a href=".">Home</a></li>
-                    <li><a href="./skills">Skills</a></li>
-                    <li><a href="./projects">Projects</a></li>
+                    <li><a href=".#/skills">Skills</a></li>
+                    <li><a href=".#/projects">Projects</a></li>
                 </ul>
             </div>
             <div id="mobile" onClick={this.handleClick}>
