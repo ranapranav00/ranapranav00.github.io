@@ -1,5 +1,5 @@
 import React from "react";
-import "./styles/home.css";
+import "../styles/home.css";
 import { LinkedIn } from "@mui/icons-material";
 import { Instagram } from "@mui/icons-material";
 import { GitHub } from "@mui/icons-material";
