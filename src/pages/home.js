@@ -6,7 +6,7 @@ import { GitHub } from "@mui/icons-material";
 import { Email } from "@mui/icons-material";
 import { AssignmentInd } from "@mui/icons-material";
 import { Button } from "@mui/material";
-// usele
+// useless 
 
 function Home() {
     return (
