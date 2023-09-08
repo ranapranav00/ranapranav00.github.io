@@ -11,14 +11,15 @@ import Skills from "./pages/skills.js";
 function App() {
   return (
     <div className="App">
-      <BrowserRouter basename={process.env.PUBLIC_URL}>
+      {/* BrowserRouter basename={process.env.PUBLIC_URL} */}
+      <Router>
         <Navbar/>
         <Routes>
           <Route path="/" element={<Home/>} />
           <Route path="/skills" element={<Skills/>} />
           <Route path="/projects" element={<Projects/>} />
         </Routes>
-      </BrowserRouter>
+      </Router>
     </div>
     
   );
