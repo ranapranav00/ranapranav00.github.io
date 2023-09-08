@@ -7,8 +7,6 @@ import { Email } from "@mui/icons-material";
 import { AssignmentInd } from "@mui/icons-material";
 import { Button } from "@mui/material";
 
-// random commit to check for main/docs
-
 function Home() {
     return (
         <div id="home">

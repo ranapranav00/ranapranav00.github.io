@@ -3,9 +3,9 @@
 import './styles/App.css';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Navbar from './Navbar';
-import Home from "./pages/home.js";
-import Projects from "./pages/projects.js";
-import Skills from "./pages/skills.js";
+import Home from "./home.js";
+import Projects from "./projects.js";
+import Skills from "./skills.js";
 
 
 function App() {
