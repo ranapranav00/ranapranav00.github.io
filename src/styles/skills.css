@@ -73,13 +73,12 @@ svg {
 }
 
 #python-icon:hover {
-    #top-py {
-        color: #5a9fd4;
-        transition: 0.3s ease-in-out;
-    }
-
     #bot-py {
         color: #ffd43b;
+        transition: 0.3s ease-in-out;
+    }
+    #top-py {
+        color: #5a9fd4;
         transition: 0.3s ease-in-out;
     }
 }
