@@ -4,7 +4,7 @@ import "../styles/skills.css";
 function Skills() {
     return(
         <div id="skills">
-            <h1 id="header">Skills</h1>
+            <h1 id="skills-header">Skills</h1>
             <div id="icons">
                 <div id="html">
                     <svg viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">

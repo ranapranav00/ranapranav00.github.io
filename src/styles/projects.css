@@ -1,0 +1,192 @@
+#projects::-webkit-scrollbar {
+    display: none;
+  }
+
+#projects {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    background: #25242a;
+    color: #fff;
+    position: absolute;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+#proj-header {
+    font-size: 40px;
+    color: #fff;
+    text-underline-offset: 8px;
+    text-decoration: underline;
+    text-decoration-color: #6b7280;
+    text-decoration-thickness: 2px;
+    text-decoration-skip:unset;
+}
+
+#grid {
+    display: grid;
+    grid-template-columns: repeat(2, 50%);
+    grid-template-rows: repeat(5, 25%);
+    grid-gap: 20px;
+    margin-top: 2%;
+    color:white;
+}
+
+#img-container {
+    display: flex;
+    justify-content: center;
+}
+
+#right-img-container {
+    display: flex;
+    justify-content: left;
+}
+
+#images {
+    height: 300px;
+}
+
+#battleship-img {
+    height: 300px;
+}
+
+#desc-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+}
+
+#bio {
+    width: 100%;
+    font-family: inherit;
+    display: flex;
+    flex-direction: column;
+    align-content: stretch;
+}
+
+#title {
+    font: 20px;
+    text-align: left;
+    text-underline-offset: 8px;
+    text-decoration: underline;
+    text-decoration-color: #6b7280;
+    text-decoration-thickness: 2px;
+    text-decoration-skip:unset;
+    margin-bottom: 0%;
+}
+
+#about {
+    font-size: 15px;
+    text-align: left;
+    width: 80%;
+    line-height: 2;
+}
+
+#gh-link {
+    text-transform: none;
+    min-width: 0px;
+    width: 50px;
+    height: 50px;
+    background-color: #282c34;
+    color: white;
+    justify-content: center;
+}
+
+#gh-logo {
+    height: 100%;
+    width: 100%;
+    padding-left: 50%;
+    padding-right: 50%;
+}
+
+#left-title {
+    font: 20px;
+    text-align: left;
+    padding-left: 17.5%;
+    text-underline-offset: 8px;
+    text-decoration: underline;
+    text-decoration-color: #6b7280;
+    text-decoration-thickness: 2px;
+    text-decoration-skip:unset;
+    margin-bottom: 0%;
+}
+
+#left-about {
+    font-size: 15px;
+    line-height: 2;
+    width: 75%;
+    text-align: left;
+    padding-left: 17.5%;
+}
+
+#left-gh-link {
+    text-transform: none;
+    min-width: 0px;
+    width: 50px;
+    height: 50px;
+    background-color: #282c34;
+    color: white;
+    justify-content: center;
+    left: 17.5%;
+}
+
+@media screen and (max-width: 550px) {
+    
+    body {
+        overflow-y: scroll;
+    }
+
+    #grid {
+        grid-gap: 0px;
+    }
+
+    #proj-header {
+        margin-right: 0;
+        margin-bottom: 10px;
+    }
+
+    #left-title {
+        padding-left: 7.5%;
+    }
+
+    #left-about {
+        padding-left: 7.5%;
+    }
+
+    #left-gh-link {
+        left: 7.5%;
+    }
+
+    #about {
+        width: 80%;
+    }
+
+    #images {
+        height: 100px;
+    }
+
+    #battleship-img {
+        height: 85px;
+    }
+
+    #title {
+        font-size: 12px;
+    }
+
+    #right-img-container {
+        right: 5%;
+    }
+
+    #left-title {
+        font-size: 12px;
+    }
+
+    #about {
+        font-size: 10px;
+    }
+
+    #left-about {
+        font-size: 10px;
+    }
+}

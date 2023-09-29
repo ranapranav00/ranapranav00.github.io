@@ -72,7 +72,7 @@ nav{
         display:flex;
         flex-direction: column;
         text-align: center;
-        position: fixed;
+        position: absolute;
         top:-500px;
         right: 0px;
         width: 100%;
@@ -89,6 +89,7 @@ nav{
     #navbar.active {
         opacity: 1;
         top: 53px;
+        overflow: hidden;
     }
 
     #navbar.active li a{

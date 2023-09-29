@@ -25,7 +25,7 @@ function Home() {
                     <Button id="button" href="https://github.com/ranapranav00"><GitHub id="gh-icon" className="icon"/>GitHub</Button>
                     <Button id="button" href="https://www.instagram.com/pranav_0629/"><Instagram id="ig-icon" className="icon"/>Instagram</Button>
                     <Button id="button" href="mailto:ranapranav00@gmail.com"><Email id="gm-icon" className="icon"/>Email</Button>
-                    <Button id="button" href="google.com"><AssignmentInd id="r-icon" className="icon"/>Resume</Button>
+                    <Button id="button" href="https://drive.google.com/file/d/1K4y0WNurpcXOANurJp9BYxy-xbwwZYqO/view?usp=sharing"><AssignmentInd id="r-icon" className="icon"/>Resume</Button>
                 </div>
             </div>
         </div>
