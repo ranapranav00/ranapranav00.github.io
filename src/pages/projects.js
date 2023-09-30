@@ -17,14 +17,14 @@ function Projects() {
                     you'll recieve unlimited access to your top listened to Artists and Tracks.
                     Using Python Flask and the Spotify API, retrieves user's spotify authorization token to access listening data for 
                     tracks and artists. Using a React frontend, displays users top listened to artists or tracks no matter the time of year.</p>
-                    <Button id="gh-link" href="https://github.com/ranapranav00"><GitHub id="gh-logo" className="icon"/></Button>
+                    <Button id="gh-link" href="https://github.com/ranapranav00/My-Spotify-Wrapped"><GitHub id="gh-logo" className="icon"/></Button>
                 </div>
                 <div id="desc-container">
                     <h2 id="left-title">Personal Portfolio</h2>
                     <p id="left-about">This is my personal portfolio website. Utilized JavaScript, HTML, and React to create and connect
                     components including navbar and pages. Styled website using CSS and ensured that it is reactive to mobile screens as 
                     well. Deployed final product using GitHub Pages.</p>
-                    <Button id="left-gh-link" href="https://github.com/ranapranav00"><GitHub id="gh-logo" className="icon"/></Button>
+                    <Button id="left-gh-link" href="https://github.com/ranapranav00/ranapranav00.github.io"><GitHub id="gh-logo" className="icon"/></Button>
                 </div>
                 <div id="right-img-container">
                     <img id="images" src="./images/portfolio-ss.png" alt="portfolio-img"/>
@@ -39,7 +39,7 @@ function Projects() {
                     every use, or load an existing week which can even be locked with a password. WeekPlan also has several 
                     other features including a splash screen, customizable week starts, event/task categorization, event/task
                     visual customizability, editing and deleting entries, and more.</p>
-                    <Button id="gh-link" href="https://github.com/ranapranav00"><GitHub id="gh-logo" className="icon"/></Button>
+                    <Button id="gh-link" href="https://github.com/ranapranav00/WeekPlan"><GitHub id="gh-logo" className="icon"/></Button>
                 </div>
                 <div id="desc-container">
                     <h2 id="left-title">BattleShip</h2>
@@ -48,7 +48,7 @@ function Projects() {
                     shooting algorithm based on parity and search and destroy, which contributed to a semifinalist finish in a 300+ player tournament. The project
                     also employs MVC and SOLID principles.
                     </p>
-                    <Button id="left-gh-link" href="https://github.com/ranapranav00"><GitHub id="gh-logo" className="icon"/></Button>
+                    <Button id="left-gh-link" href="https://github.com/ranapranav00/Battleship"><GitHub id="gh-logo" className="icon"/></Button>
                 </div>
                 <div id="right-img-container">
                     <img id="battleship-img" src="./images/battleship.png" alt="msw-img"/>
@@ -62,7 +62,7 @@ function Projects() {
                     Students can view universities, professors, courses, sections, reviews, and much more. Professors can also view reviews
                     left on classes/sections they have taught. Utilized Python Flask to create Rest API and SQL Queries, and deployed on
                     Appsmith using Docker.</p>
-                    <Button id="gh-link" href="https://github.com/ranapranav00"><GitHub id="gh-logo" className="icon"/></Button>
+                    <Button id="gh-link" href="https://github.com/SpaceRage/CS3200ProjectRepo"><GitHub id="gh-logo" className="icon"/></Button>
                 </div>
             </div>
         </div>
