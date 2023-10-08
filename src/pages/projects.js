@@ -54,7 +54,7 @@ function Projects() {
                     <img id="battleship-img" src="./images/battleship.png" alt="msw-img"/>
                 </div>
                 <div id="img-container">
-                    <img id="images" src="./images/spotify-logo.png" alt="msw-img"/>
+                    <img id="images" src="./images/coursehub.jpg" alt="msw-img"/>
                 </div>
                 <div id="desc-container">
                     <h2 id="title">CourseHub</h2>
