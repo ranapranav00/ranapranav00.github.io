@@ -15,9 +15,9 @@ function Home() {
             </div>
             <div id="bio">
                 <h1 id="intro">I'm Pranav Rana</h1>
-                <p id="para">Welcome to my website! I'm currently a student at Northeastern University pursuing a combined major
-                    in Computer Science and Mathematics. I enjoy learning new things and am greatly interested in the endless potential
-                    applications of generative AI, as well as the role of SWE in predicting Financial Markets. I hope to be able to apply
+                <p id="para">Welcome to my website! I'm currently a student at Northeastern University pursuing a major in Computer
+                    Science with a Concentration in AI and a Minor in Mathematics. I enjoy problem solving and learning new things and am greatly interested in the endless potential
+                    applications of generative AI, as well as the role of SWE in Aerospace and predicting Financial Markets. I hope to be able to apply
                     my interests wherever possible.
                 </p>
                 <div id="buttons">
