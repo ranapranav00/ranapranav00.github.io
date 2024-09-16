@@ -1,6 +1,10 @@
-#skills {
+#skills::-webkit-scrollbar {
+    display: none;
+  }
+
+#skillsxxx {
     width: 100%;
-    height: 100%;
+    height: auto;
     align-items: center;
     display: flex;
     flex-direction: column;
@@ -8,7 +12,24 @@
     color: #fff;
     font-size: 30px;
     position: absolute;
+    overflow-y: scroll;
+    overflow-x: hidden;
 }
+
+#skills {
+    width: 100%;
+    height: 100vh; /* or a specific height if preferred */
+    overflow-y: auto; /* allows vertical scrolling */
+    overflow-x: hidden;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    background: #25242a;
+    color: #fff;
+    font-size: 30px;
+    position: relative; /* relative positioning to maintain its flow in the document */
+}
+
 
 #skills-header {
     margin-top: 50px;
@@ -24,10 +45,11 @@
 #icons {
     display: grid;
     grid-template-columns: repeat(4, 175px);
-    grid-template-rows: repeat(2, 175px);
+    grid-template-rows: repeat(3, 175px);
     grid-gap: 50px;
     margin-top: 2%;
     color:white;
+    padding-bottom: 100px;
 }
 
 svg {
@@ -89,6 +111,95 @@ svg {
 #flask:hover {
     color: #42959d;
     transition: 0.3s ease-in-out;
+}
+
+#Tensorflow {
+    height: 100%;
+    width: 100%;
+}
+
+#tensorflow:hover {
+    #tf1 {
+        color: #E55B2D;
+        transition: 0.3s ease-in-out;
+    }
+
+    #tf2 {
+        color: #ED8E24;
+        transition: 0.3s ease-in-out;
+    }
+
+    #tf3{
+        color:  #F8BF3C;
+        transition: 0.3s ease-in-out;
+    }
+}
+
+#numpy {
+    height: 100%;
+    width: 100%;
+}
+
+#numpy:hover {
+    #np1 {
+        color: #4DABCF; 
+        transition: 0.3s ease-in-out;
+    }
+
+    #np2 {
+        color: #4D77CF;
+        transition: 0.3s ease-in-out;
+    }
+}
+
+#pandas:hover {
+    #pd1 {
+        color: #130754;
+        transition: 0.3s ease-in-out;
+    }
+    #pd2 {
+        color: #ffca00;
+        transition: 0.4s ease-in-out;
+    }
+    #pd3 {
+        color: #e70488;
+        transition: 0.4s ease-in-out;
+    }
+}
+
+#Matplotlib:hover {
+    #plt1 {
+        color: #11557c;
+        transition: 0.3s ease-in-out;   
+    }
+    #plt2 {
+        color: #004cff;
+        transition: 0.3s ease-in-out;   
+    }
+    #plt3 {
+        color: #ceff29;
+        transition: 0.3s ease-in-out;   
+    }
+    #plt4 {
+        color: #ff6800;
+        transition: 0.3s ease-in-out;   
+    }
+    #plt5 {
+        color: #ffc400;
+        transition: 0.3s ease-in-out;   
+    }
+    #plt6 {
+        color: #29ffce;
+        transition: 0.3s ease-in-out;   
+    }
+    #plt7 {
+        color: #7dff7a;
+        transition: 0.3s ease-in-out;   
+    }
+    #plt8 {
+        color: #2c2c2c;
+        transition: 0.3s ease-in-out;   
+    }
 }
 
 

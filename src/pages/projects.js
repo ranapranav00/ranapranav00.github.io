@@ -6,8 +6,37 @@ import { Button } from "@mui/material";
 function Projects() {
     return(
         <div id="projects">
-                <h1 id="proj-header">Projects</h1>
+            <h1 id="proj-header">Projects</h1>
             <div id="grid">
+                <div id="img-container">
+                    <img id="images" src="./images/cnnvis.png" alt="msw-img" xmlns="https://github.com/ranapranav00/My-Spotify-Wrapped"/>
+                </div>           
+                <div id="desc-container">
+                    <h2 id="title">Geolocation Convolution</h2>
+                    <p id="about">This Geolocation Convolution is a Convolutional Neural Network that predicts the coordinates a streetview image was taken at.
+                    The data for the model was retrieved from the CVUSA dataset, which contained ~2MM geotagged images. From there, I designed a script to 
+                    restructure the directory into 928 classes representing unique longitude/latitude pairs. The model uses 2D-CNNs to identify differentiating
+                    features in the various streetview images and achieved a training and testing error of ~2 degrees of latitude and longitude. Finally, plotted results 
+                    with Matplotlib to visualize distance between Actual vs Expected Coordinates.
+                    </p>
+                    <Button id="gh-link" href="https://github.com/ranapranav00/GeoguesserCNN"><GitHub id="gh-logo" className="icon"/></Button>
+                </div>   
+                <div id="desc-container">
+                    <h2 id="left-title">MyWorld</h2>
+                    <p id="left-about">MyWorld is a small project I created to document my various travels around the world.
+                    Leveraged a globe.gl render to visualize and pinpoint all my personal travel destinations on a globe. Stored 
+                    personal photography in an AWS S3 bucket to be retrieved upon the click of a country's pin. Created using a React
+                    frontend and a Node.js server.
+                    </p>
+                    <div id = "buttonDiv">
+                        <Button id="left-gh-link" href="https://github.com/ranapranav00/travels-globe"><GitHub id="gh-logo" className="icon"/></Button>
+                        &nbsp;&nbsp;
+                        <Button id="left-gh-link" href="https://github.com/ranapranav00/image-microservice"><GitHub id="gh-logo" className="icon"/></Button>
+                    </div>
+                </div>
+                <div id="right-img-container">
+                    <img id="images" src="./images/myglobe.png" alt="portfolio-img"/>
+                </div>     
                 <div id="img-container">
                     <img id="images" src="./images/spotify-logo.png" alt="msw-img" xmlns="https://github.com/ranapranav00/My-Spotify-Wrapped"/>
                 </div>           
