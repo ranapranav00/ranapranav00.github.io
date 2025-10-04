@@ -174,7 +174,7 @@ export default function Home({ mode, toggleMode }: HomeProps) {
                 <span>Email</span>
               </a>
               <a
-                href="https://drive.google.com/file/d/1ySLWHvr0aU6L-Gtdd91AUwZ0XUp_b5Uj/view?usp=sharing"
+                href="https://drive.google.com/file/d/1dcI6lAtX5hoA_ll-oiQd8dOuk37lPfwq/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-6 py-3 glass-effect rounded-lg hover:scale-105 transition-transform flex items-center gap-2"
