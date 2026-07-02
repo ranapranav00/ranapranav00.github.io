@@ -1,4 +1,6 @@
 {
+  "Antarctica": [],
+  "Argentina": [],
   "Bahamas": [],
   "Bermuda": [],
   "Canada": [
@@ -59,15 +61,18 @@
       "fullUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_1200,q_auto,f_auto/v1759438689/IMG_0493_hbckkb.jpg"
     }
   ],
+  "Chile": [],
+  "China": [],
+  "Colombia": [],
   "Costa Rica": [],
   "Dominican Republic": [],
-  "Dubai": [],
   "Egypt": [],
   "Greece": [],
   "Guatemala": [],
   "India": [],
   "Istanbul": [],
   "Italy": [],
+  "Japan": [],
   "Jordan": [],
   "Kenya": [
     {
@@ -107,6 +112,7 @@
       "fullUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_1200,q_auto,f_auto/v1759438782/IMG_3925_zgiuif.jpg"
     }
   ],
+  "Portugal": [],
   "Puerto Rico": [],
   "Tanzania": [
     {
@@ -133,5 +139,6 @@
       "thumbnailUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_400,h_400,c_fill,q_auto,f_auto/v1759438756/IMG_7151-2_hfha85.jpg",
       "fullUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_1200,q_auto,f_auto/v1759438756/IMG_7151-2_hfha85.jpg"
     }
-  ]
+  ],
+  "UAE": []
 }
