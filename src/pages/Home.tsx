@@ -248,7 +248,7 @@ export default function Home({ mode, toggleMode }: HomeProps) {
                         ) : images.length === 0 ? (
                           <div className="text-center text-muted-foreground py-12">
                             <p>No photos found for this location</p>
-                            <p className="text-sm mt-2">Upload photos to travel/{selectedLocation.location.toLowerCase().replace(/\s+/g, '-')}</p>
+                            <p className="text-sm mt-2">Upload photos to travel/{selectedLocation.location}</p>
                           </div>
                         ) : (
                           <ResponsiveMasonry columnsCountBreakPoints={{ 350: 1, 750: 2 }}>

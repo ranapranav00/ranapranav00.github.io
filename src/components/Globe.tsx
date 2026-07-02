@@ -19,13 +19,13 @@ const locations: Location[] = [
   { location: "China", lat: 39.9042, lng: 116.4074, countryCode: "CN", start: "May 2026", end: "May 2026" },
   { location: "Lisbon", lat: 38.7223, lng: -9.1393, countryCode: "PT", start: "Feb 2026", end: "Mar 2026" },
   // Before & After Antarctica cruise: Dec 16-19 and Dec 27-31, 2025
-  { location: "Argentina", lat: 34.6037, lng: -58.3816, countryCode: "AR", start: "Dec 2025", end: "Dec 2025" },
-  { location: "Chile", lat: -53.1638, lng: -70.9171, countryCode: "CL", start: "Dec 2025", end: "Dec 2025" },
-  { location: "Antarctica", lat: -63.5, lng: -57.0, countryCode: "AQ", start: "Dec 2025", end: "Dec 2025" },
+  { location: "Argentina", lat: -34.6037, lng: -58.3816, countryCode: "AR", start: "Dec 2025", end: "Dec 2025" },
+  { location: "Chile", lat: -50.9423, lng: -73.0356, countryCode: "CL", start: "Dec 2025", end: "Dec 2025" },
+  { location: "Antarctica", lat: -64.8833, lng: -62.8667, countryCode: "AQ", start: "Dec 2025", end: "Dec 2025" },
   { location: "Bogota", lat: 4.7110, lng: -74.0721, countryCode: "CO", start: "Dec 2025", end: "Dec 2025" },
-  { location: "El Salvador", lat: 13.6929, lng: -89.2182, countryCode: "SV", start: "Aug 2025", end: "Aug 2025" },
+  { location: "El Salvador", lat: 13.8531, lng: -89.6289, countryCode: "SV", start: "Aug 2025", end: "Aug 2025" },
   // Pre & Post Morocco Layovers
-  { location: "Istanbul", lat: 41.0082, lng: 28.9784, countryCode: "TR", start: "Apr 2025", end: "May 2025" },
+  { location: "Istanbul", lat: 41.0086, lng: 28.9802, countryCode: "TR", start: "Apr 2025", end: "May 2025" },
   { location: "Morocco", lat: 31.6295, lng: -7.9811, countryCode: "MA", start: "Apr 2025", end: "May 2025" },
   { location: "Jordan", lat: 30.3285, lng: 35.4444, countryCode: "JO", start: "Nov 2024", end: "Nov 2024" },
   { location: "Guatemala", lat: 14.5573, lng: -90.7332, countryCode: "GT", start: "May 2024", end: "May 2024" },
@@ -48,11 +48,16 @@ const locations: Location[] = [
 
 function pinSvg(location: Location) {
   const code = location.countryCode.toLowerCase()
-  const clipId = `flag-clip-${location.location.toLowerCase().replace(/\s+/g, '-')}`
+  const patternId = `flag-pattern-${location.location.toLowerCase().replace(/\s+/g, '-')}`
   return `<svg viewBox="0 0 24 24" width="40" height="40">
-    <defs><clipPath id="${clipId}"><circle cx="12" cy="8.5" r="6"/></clipPath></defs>
-    <path d="M12 0C7.31 0 3.5 3.81 3.5 8.5C3.5 15.15 12 24 12 24C12 24 20.5 15.15 20.5 8.5C20.5 3.81 16.69 0 12 0Z" fill="#ffffff"/>
-    <image href="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/${code}.svg" x="6" y="2.5" width="12" height="12" clip-path="url(#${clipId})" preserveAspectRatio="xMidYMid slice"/>
+    <defs>
+      <pattern id="${patternId}" patternUnits="objectBoundingBox" width="1" height="1">
+        <image href="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/${code}.svg" x="0" y="0" width="12" height="12" preserveAspectRatio="xMidYMid slice"/>
+      </pattern>
+    </defs>
+    <path d="M12 0C7.31 0 3.5 3.81 3.5 8.5C3.5 15.15 12 24 12 24C12 24 20.5 15.15 20.5 8.5C20.5 3.81 16.69 0 12 0Z" fill="#cbd5e1"/>
+    <circle cx="12" cy="8.5" r="6" fill="url(#${patternId})"/>
+    <circle cx="12" cy="8.5" r="6" fill="none" stroke="#3b82f6" stroke-width="0.6"/>
   </svg>`
 }
 
@@ -127,12 +132,26 @@ export default function Globe({ onLocationSelect }: GlobeProps) {
             htmlAltitude={0.01}
             htmlTransitionDuration={0}
             htmlElement={(d: any) => {
+              // react-globe.gl re-centers this element on the coordinate every frame, so the
+              // pin tip (not the SVG's bounding-box center) needs to sit at (0,0) of a zero-size
+              // wrapper rather than being offset via this element's own transform.
               const el = document.createElement('div')
-              el.innerHTML = pinSvg(d)
-              el.style.cursor = 'pointer'
-              el.style.pointerEvents = 'auto'
-              el.style.filter = 'drop-shadow(0 0 8px rgba(59, 130, 246, 0.8))'
-              el.onclick = () => onLocationSelect(d)
+              el.style.position = 'relative'
+              el.style.width = '0px'
+              el.style.height = '0px'
+
+              const pin = document.createElement('div')
+              pin.style.position = 'absolute'
+              pin.style.left = '0px'
+              pin.style.top = '0px'
+              pin.style.transform = 'translate(-50%, -100%)'
+              pin.style.cursor = 'pointer'
+              pin.style.pointerEvents = 'auto'
+              pin.style.filter = 'drop-shadow(0 0 8px rgba(59, 130, 246, 0.8))'
+              pin.innerHTML = pinSvg(d)
+              pin.onclick = () => onLocationSelect(d)
+
+              el.appendChild(pin)
               return el
             }}
         />

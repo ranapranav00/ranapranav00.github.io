@@ -25,10 +25,6 @@ function getManifest(): Promise<TravelPhotosManifest> {
   return manifestPromise
 }
 
-function slugify(location: string) {
-  return location.toLowerCase().replace(/\s+/g, '-')
-}
-
 export function useCloudinaryPhotos(location: string | null) {
   const [images, setImages] = useState<CloudinaryImage[]>([])
   const [loading, setLoading] = useState(false)
@@ -46,7 +42,7 @@ export function useCloudinaryPhotos(location: string | null) {
 
       try {
         const manifest = await getManifest()
-        setImages(manifest[slugify(location)] || [])
+        setImages(manifest[location] || [])
       } catch (err: any) {
         console.error('Error fetching photos:', err)
         setError(err.message || 'Failed to load photos')
