@@ -1,5 +1,4 @@
 import { useState, useEffect } from 'react'
-import { supabase } from '../integrations/supabase/client'
 
 interface CloudinaryImage {
   url: string
@@ -8,6 +7,26 @@ interface CloudinaryImage {
   height: number
   thumbnailUrl: string
   fullUrl: string
+}
+
+type TravelPhotosManifest = Record<string, CloudinaryImage[]>
+
+let manifestPromise: Promise<TravelPhotosManifest> | null = null
+
+function getManifest(): Promise<TravelPhotosManifest> {
+  if (!manifestPromise) {
+    manifestPromise = fetch(`${import.meta.env.BASE_URL}data/travel-photos.json`).then((response) => {
+      if (!response.ok) {
+        throw new Error(`Failed to fetch travel photos: ${response.status}`)
+      }
+      return response.json()
+    })
+  }
+  return manifestPromise
+}
+
+function slugify(location: string) {
+  return location.toLowerCase().replace(/\s+/g, '-')
 }
 
 export function useCloudinaryPhotos(location: string | null) {
@@ -26,13 +45,8 @@ export function useCloudinaryPhotos(location: string | null) {
       setError(null)
 
       try {
-        const { data, error } = await supabase.functions.invoke('cloudinary-photos', {
-          body: { location }
-        })
-
-        if (error) throw error
-
-        setImages(data.images || [])
+        const manifest = await getManifest()
+        setImages(manifest[slugify(location)] || [])
       } catch (err: any) {
         console.error('Error fetching photos:', err)
         setError(err.message || 'Failed to load photos')

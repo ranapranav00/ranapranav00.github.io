@@ -1,5 +1,4 @@
 import { useEffect, useState } from 'react';
-import { supabase } from '../integrations/supabase/client';
 
 interface SpotifyArtist {
   id: string;
@@ -34,16 +33,13 @@ export function useSpotifyData() {
         setLoading(true);
         setError(null);
 
-        const { data: responseData, error: functionError } = await supabase.functions.invoke('spotify-data');
+        const response = await fetch(`${import.meta.env.BASE_URL}data/spotify.json`);
 
-        if (functionError) {
-          throw functionError;
+        if (!response.ok) {
+          throw new Error(`Failed to fetch Spotify data: ${response.status}`);
         }
 
-        if (responseData.error) {
-          throw new Error(responseData.error);
-        }
-
+        const responseData = await response.json();
         setData(responseData);
       } catch (err) {
         console.error('Error fetching Spotify data:', err);

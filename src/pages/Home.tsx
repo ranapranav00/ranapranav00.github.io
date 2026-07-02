@@ -314,7 +314,7 @@ export default function Home({ mode, toggleMode }: HomeProps) {
                   <p className="text-muted-foreground mb-4">Unable to load Spotify data</p>
                   <p className="text-sm text-muted-foreground">{spotifyError}</p>
                   <p className="text-xs text-muted-foreground mt-4">
-                    Make sure SPOTIFY_REFRESH_TOKEN is set in your Supabase secrets
+                    Make sure the data workflow has run successfully
                   </p>
                 </div>
               ) : (

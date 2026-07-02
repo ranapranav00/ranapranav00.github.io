@@ -8,6 +8,9 @@ yarn-error.log*
 dist/
 build/
 
+# Generated on deploy by GitHub Actions
+public/data/
+
 # Environment variables
 .env
 .env.local
