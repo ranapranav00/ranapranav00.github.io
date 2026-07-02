@@ -1,9 +1,9 @@
 {
-  "Antarctica": [],
-  "Argentina": [],
-  "Bahamas": [],
-  "Bermuda": [],
-  "Canada": [
+  "antarctica": [],
+  "argentina": [],
+  "bahamas": [],
+  "bermuda": [],
+  "canada": [
     {
       "url": "https://res.cloudinary.com/dlw5iyuu0/image/upload/v1759438699/IMG_3051_jpg_1_qxfyns.jpg",
       "publicId": "IMG_3051_jpg_1_qxfyns",
@@ -61,20 +61,20 @@
       "fullUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_1200,q_auto,f_auto/v1759438689/IMG_0493_hbckkb.jpg"
     }
   ],
-  "Chile": [],
-  "China": [],
-  "Colombia": [],
-  "Costa Rica": [],
-  "Dominican Republic": [],
-  "Egypt": [],
-  "Greece": [],
-  "Guatemala": [],
-  "India": [],
-  "Istanbul": [],
-  "Italy": [],
-  "Japan": [],
-  "Jordan": [],
-  "Kenya": [
+  "chile": [],
+  "china": [],
+  "colombia": [],
+  "costa-rica": [],
+  "dominican-republic": [],
+  "egypt": [],
+  "greece": [],
+  "guatemala": [],
+  "india": [],
+  "istanbul": [],
+  "italy": [],
+  "japan": [],
+  "jordan": [],
+  "kenya": [
     {
       "url": "https://res.cloudinary.com/dlw5iyuu0/image/upload/v1759438740/IMG_6683_vxzvwi.jpg",
       "publicId": "IMG_6683_vxzvwi",
@@ -92,9 +92,9 @@
       "fullUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_1200,q_auto,f_auto/v1759438732/IMG_5932_lhv9bi.jpg"
     }
   ],
-  "Mexico": [],
-  "Morocco": [],
-  "Peru": [
+  "mexico": [],
+  "morocco": [],
+  "peru": [
     {
       "url": "https://res.cloudinary.com/dlw5iyuu0/image/upload/v1759438784/IMG_4272_tknbvu.jpg",
       "publicId": "IMG_4272_tknbvu",
@@ -112,9 +112,9 @@
       "fullUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_1200,q_auto,f_auto/v1759438782/IMG_3925_zgiuif.jpg"
     }
   ],
-  "Portugal": [],
-  "Puerto Rico": [],
-  "Tanzania": [
+  "portugal": [],
+  "puerto-rico": [],
+  "tanzania": [
     {
       "url": "https://res.cloudinary.com/dlw5iyuu0/image/upload/v1759438768/IMG_6024_yf4hxx.jpg",
       "publicId": "IMG_6024_yf4hxx",
@@ -140,5 +140,5 @@
       "fullUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_1200,q_auto,f_auto/v1759438756/IMG_7151-2_hfha85.jpg"
     }
   ],
-  "UAE": []
+  "uae": []
 }
