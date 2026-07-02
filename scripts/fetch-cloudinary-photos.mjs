@@ -25,6 +25,10 @@ async function listTravelFolders() {
   return (data.folders ?? []).map((folder) => folder.name)
 }
 
+function slugify(name) {
+  return name.toLowerCase().replace(/\s+/g, '-')
+}
+
 async function listPhotos(folderName) {
   const data = await cloudinaryGet(`/resources/by_asset_folder?asset_folder=travel/${folderName}&max_results=100`)
   return (data.resources ?? []).map((resource) => ({
@@ -41,7 +45,7 @@ const folders = await listTravelFolders()
 
 const manifest = {}
 for (const folder of folders) {
-  manifest[folder] = await listPhotos(folder)
+  manifest[slugify(folder)] = await listPhotos(folder)
 }
 
 await mkdir('public/data', { recursive: true })
