@@ -94,7 +94,24 @@
   ],
   "Lisbon": [],
   "Mexico City": [],
-  "Morocco": [],
+  "Morocco": [
+    {
+      "url": "https://res.cloudinary.com/dlw5iyuu0/image/upload/v1783092974/DSC00652_hi8i1g.jpg",
+      "publicId": "DSC00652_hi8i1g",
+      "width": 1616,
+      "height": 1080,
+      "thumbnailUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_400,h_400,c_fill,q_auto,f_auto/v1783092974/DSC00652_hi8i1g.jpg",
+      "fullUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_1200,q_auto,f_auto/v1783092974/DSC00652_hi8i1g.jpg"
+    },
+    {
+      "url": "https://res.cloudinary.com/dlw5iyuu0/image/upload/v1783092974/DSC02968_1_-2_wzbdoq.jpg",
+      "publicId": "DSC02968_1_-2_wzbdoq",
+      "width": 1616,
+      "height": 1080,
+      "thumbnailUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_400,h_400,c_fill,q_auto,f_auto/v1783092974/DSC02968_1_-2_wzbdoq.jpg",
+      "fullUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_1200,q_auto,f_auto/v1783092974/DSC02968_1_-2_wzbdoq.jpg"
+    }
+  ],
   "Peru": [
     {
       "url": "https://res.cloudinary.com/dlw5iyuu0/image/upload/v1759438784/IMG_4272_tknbvu.jpg",
