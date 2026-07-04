@@ -2,8 +2,87 @@
   "Antarctica": [],
   "Argentina": [],
   "Bahamas": [],
-  "Bermuda": [],
-  "Canada": [
+  "Banff": [
+    {
+      "url": "https://res.cloudinary.com/dlw5iyuu0/image/upload/v1783188789/IMG_5520_u2cqig.jpg",
+      "publicId": "IMG_5520_u2cqig",
+      "width": 3750,
+      "height": 2500,
+      "thumbnailUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_400,h_400,c_fill,q_auto,f_auto/v1783188789/IMG_5520_u2cqig.jpg",
+      "fullUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_1200,q_auto,f_auto/v1783188789/IMG_5520_u2cqig.jpg"
+    },
+    {
+      "url": "https://res.cloudinary.com/dlw5iyuu0/image/upload/v1783188784/IMG_5483_ax6e6w.jpg",
+      "publicId": "IMG_5483_ax6e6w",
+      "width": 3750,
+      "height": 2500,
+      "thumbnailUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_400,h_400,c_fill,q_auto,f_auto/v1783188784/IMG_5483_ax6e6w.jpg",
+      "fullUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_1200,q_auto,f_auto/v1783188784/IMG_5483_ax6e6w.jpg"
+    },
+    {
+      "url": "https://res.cloudinary.com/dlw5iyuu0/image/upload/v1783188779/IMG_5265_cgurzj.jpg",
+      "publicId": "IMG_5265_cgurzj",
+      "width": 3750,
+      "height": 2500,
+      "thumbnailUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_400,h_400,c_fill,q_auto,f_auto/v1783188779/IMG_5265_cgurzj.jpg",
+      "fullUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_1200,q_auto,f_auto/v1783188779/IMG_5265_cgurzj.jpg"
+    },
+    {
+      "url": "https://res.cloudinary.com/dlw5iyuu0/image/upload/v1783188772/IMG_3089_qordpd.jpg",
+      "publicId": "IMG_3089_qordpd",
+      "width": 4032,
+      "height": 2268,
+      "thumbnailUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_400,h_400,c_fill,q_auto,f_auto/v1783188772/IMG_3089_qordpd.jpg",
+      "fullUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_1200,q_auto,f_auto/v1783188772/IMG_3089_qordpd.jpg"
+    },
+    {
+      "url": "https://res.cloudinary.com/dlw5iyuu0/image/upload/v1783188764/IMG_3004_satsuz.jpg",
+      "publicId": "IMG_3004_satsuz",
+      "width": 4032,
+      "height": 2268,
+      "thumbnailUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_400,h_400,c_fill,q_auto,f_auto/v1783188764/IMG_3004_satsuz.jpg",
+      "fullUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_1200,q_auto,f_auto/v1783188764/IMG_3004_satsuz.jpg"
+    },
+    {
+      "url": "https://res.cloudinary.com/dlw5iyuu0/image/upload/v1783188764/IMG_2990_iyvabu.jpg",
+      "publicId": "IMG_2990_iyvabu",
+      "width": 4032,
+      "height": 2268,
+      "thumbnailUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_400,h_400,c_fill,q_auto,f_auto/v1783188764/IMG_2990_iyvabu.jpg",
+      "fullUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_1200,q_auto,f_auto/v1783188764/IMG_2990_iyvabu.jpg"
+    },
+    {
+      "url": "https://res.cloudinary.com/dlw5iyuu0/image/upload/v1783188758/IMG_2882_jpncq4.jpg",
+      "publicId": "IMG_2882_jpncq4",
+      "width": 4032,
+      "height": 2268,
+      "thumbnailUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_400,h_400,c_fill,q_auto,f_auto/v1783188758/IMG_2882_jpncq4.jpg",
+      "fullUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_1200,q_auto,f_auto/v1783188758/IMG_2882_jpncq4.jpg"
+    },
+    {
+      "url": "https://res.cloudinary.com/dlw5iyuu0/image/upload/v1783188742/IMG_2788_xgtqqs.jpg",
+      "publicId": "IMG_2788_xgtqqs",
+      "width": 4032,
+      "height": 2268,
+      "thumbnailUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_400,h_400,c_fill,q_auto,f_auto/v1783188742/IMG_2788_xgtqqs.jpg",
+      "fullUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_1200,q_auto,f_auto/v1783188742/IMG_2788_xgtqqs.jpg"
+    },
+    {
+      "url": "https://res.cloudinary.com/dlw5iyuu0/image/upload/v1783188731/IMG_0890_w4n9jj.jpg",
+      "publicId": "IMG_0890_w4n9jj",
+      "width": 1536,
+      "height": 2048,
+      "thumbnailUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_400,h_400,c_fill,q_auto,f_auto/v1783188731/IMG_0890_w4n9jj.jpg",
+      "fullUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_1200,q_auto,f_auto/v1783188731/IMG_0890_w4n9jj.jpg"
+    },
+    {
+      "url": "https://res.cloudinary.com/dlw5iyuu0/image/upload/v1783188726/IMG_0577_j60mqm.jpg",
+      "publicId": "IMG_0577_j60mqm",
+      "width": 4032,
+      "height": 3024,
+      "thumbnailUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_400,h_400,c_fill,q_auto,f_auto/v1783188726/IMG_0577_j60mqm.jpg",
+      "fullUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_1200,q_auto,f_auto/v1783188726/IMG_0577_j60mqm.jpg"
+    },
     {
       "url": "https://res.cloudinary.com/dlw5iyuu0/image/upload/v1759438699/IMG_3051_jpg_1_qxfyns.jpg",
       "publicId": "IMG_3051_jpg_1_qxfyns",
@@ -61,6 +140,7 @@
       "fullUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_1200,q_auto,f_auto/v1759438689/IMG_0493_hbckkb.jpg"
     }
   ],
+  "Bermuda": [],
   "Chile": [],
   "China": [],
   "Colombia": [],
@@ -75,6 +155,110 @@
   "Japan": [],
   "Jordan": [],
   "Kenya": [
+    {
+      "url": "https://res.cloudinary.com/dlw5iyuu0/image/upload/v1783188844/IMG_3441_xzxaqs.jpg",
+      "publicId": "IMG_3441_xzxaqs",
+      "width": 4032,
+      "height": 2268,
+      "thumbnailUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_400,h_400,c_fill,q_auto,f_auto/v1783188844/IMG_3441_xzxaqs.jpg",
+      "fullUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_1200,q_auto,f_auto/v1783188844/IMG_3441_xzxaqs.jpg"
+    },
+    {
+      "url": "https://res.cloudinary.com/dlw5iyuu0/image/upload/v1783188842/IMG_3481_pcxrr3.jpg",
+      "publicId": "IMG_3481_pcxrr3",
+      "width": 4032,
+      "height": 2268,
+      "thumbnailUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_400,h_400,c_fill,q_auto,f_auto/v1783188842/IMG_3481_pcxrr3.jpg",
+      "fullUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_1200,q_auto,f_auto/v1783188842/IMG_3481_pcxrr3.jpg"
+    },
+    {
+      "url": "https://res.cloudinary.com/dlw5iyuu0/image/upload/v1783188840/IMG_3138_bd2a06.jpg",
+      "publicId": "IMG_3138_bd2a06",
+      "width": 3024,
+      "height": 4032,
+      "thumbnailUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_400,h_400,c_fill,q_auto,f_auto/v1783188840/IMG_3138_bd2a06.jpg",
+      "fullUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_1200,q_auto,f_auto/v1783188840/IMG_3138_bd2a06.jpg"
+    },
+    {
+      "url": "https://res.cloudinary.com/dlw5iyuu0/image/upload/v1783188839/IMG_3134_akwrqp.jpg",
+      "publicId": "IMG_3134_akwrqp",
+      "width": 3024,
+      "height": 4032,
+      "thumbnailUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_400,h_400,c_fill,q_auto,f_auto/v1783188839/IMG_3134_akwrqp.jpg",
+      "fullUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_1200,q_auto,f_auto/v1783188839/IMG_3134_akwrqp.jpg"
+    },
+    {
+      "url": "https://res.cloudinary.com/dlw5iyuu0/image/upload/v1783188837/IMG_3119_umu50y.jpg",
+      "publicId": "IMG_3119_umu50y",
+      "width": 4032,
+      "height": 3024,
+      "thumbnailUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_400,h_400,c_fill,q_auto,f_auto/v1783188837/IMG_3119_umu50y.jpg",
+      "fullUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_1200,q_auto,f_auto/v1783188837/IMG_3119_umu50y.jpg"
+    },
+    {
+      "url": "https://res.cloudinary.com/dlw5iyuu0/image/upload/v1783188836/IMG_3169_jpg_h2kw9d.jpg",
+      "publicId": "IMG_3169_jpg_h2kw9d",
+      "width": 3024,
+      "height": 4032,
+      "thumbnailUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_400,h_400,c_fill,q_auto,f_auto/v1783188836/IMG_3169_jpg_h2kw9d.jpg",
+      "fullUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_1200,q_auto,f_auto/v1783188836/IMG_3169_jpg_h2kw9d.jpg"
+    },
+    {
+      "url": "https://res.cloudinary.com/dlw5iyuu0/image/upload/v1783188829/IMG_6616-Enhanced-SR_Original_grhrvr.jpg",
+      "publicId": "IMG_6616-Enhanced-SR_Original_grhrvr",
+      "width": 2632,
+      "height": 1842,
+      "thumbnailUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_400,h_400,c_fill,q_auto,f_auto/v1783188829/IMG_6616-Enhanced-SR_Original_grhrvr.jpg",
+      "fullUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_1200,q_auto,f_auto/v1783188829/IMG_6616-Enhanced-SR_Original_grhrvr.jpg"
+    },
+    {
+      "url": "https://res.cloudinary.com/dlw5iyuu0/image/upload/v1783188826/IMG_6603_xhjkir.jpg",
+      "publicId": "IMG_6603_xhjkir",
+      "width": 4898,
+      "height": 3265,
+      "thumbnailUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_400,h_400,c_fill,q_auto,f_auto/v1783188826/IMG_6603_xhjkir.jpg",
+      "fullUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_1200,q_auto,f_auto/v1783188826/IMG_6603_xhjkir.jpg"
+    },
+    {
+      "url": "https://res.cloudinary.com/dlw5iyuu0/image/upload/v1783188818/IMG_6398_pfrsho.jpg",
+      "publicId": "IMG_6398_pfrsho",
+      "width": 4898,
+      "height": 3265,
+      "thumbnailUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_400,h_400,c_fill,q_auto,f_auto/v1783188818/IMG_6398_pfrsho.jpg",
+      "fullUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_1200,q_auto,f_auto/v1783188818/IMG_6398_pfrsho.jpg"
+    },
+    {
+      "url": "https://res.cloudinary.com/dlw5iyuu0/image/upload/v1783188816/IMG_6503_anat1n.jpg",
+      "publicId": "IMG_6503_anat1n",
+      "width": 4898,
+      "height": 3265,
+      "thumbnailUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_400,h_400,c_fill,q_auto,f_auto/v1783188816/IMG_6503_anat1n.jpg",
+      "fullUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_1200,q_auto,f_auto/v1783188816/IMG_6503_anat1n.jpg"
+    },
+    {
+      "url": "https://res.cloudinary.com/dlw5iyuu0/image/upload/v1783188815/IMG_6455-2_v829qo.jpg",
+      "publicId": "IMG_6455-2_v829qo",
+      "width": 4898,
+      "height": 3265,
+      "thumbnailUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_400,h_400,c_fill,q_auto,f_auto/v1783188815/IMG_6455-2_v829qo.jpg",
+      "fullUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_1200,q_auto,f_auto/v1783188815/IMG_6455-2_v829qo.jpg"
+    },
+    {
+      "url": "https://res.cloudinary.com/dlw5iyuu0/image/upload/v1783188814/IMG_6588_nmuu2a.jpg",
+      "publicId": "IMG_6588_nmuu2a",
+      "width": 4898,
+      "height": 3265,
+      "thumbnailUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_400,h_400,c_fill,q_auto,f_auto/v1783188814/IMG_6588_nmuu2a.jpg",
+      "fullUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_1200,q_auto,f_auto/v1783188814/IMG_6588_nmuu2a.jpg"
+    },
+    {
+      "url": "https://res.cloudinary.com/dlw5iyuu0/image/upload/v1783188813/IMG_6296_x96hz2.jpg",
+      "publicId": "IMG_6296_x96hz2",
+      "width": 4898,
+      "height": 3266,
+      "thumbnailUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_400,h_400,c_fill,q_auto,f_auto/v1783188813/IMG_6296_x96hz2.jpg",
+      "fullUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_1200,q_auto,f_auto/v1783188813/IMG_6296_x96hz2.jpg"
+    },
     {
       "url": "https://res.cloudinary.com/dlw5iyuu0/image/upload/v1759438740/IMG_6683_vxzvwi.jpg",
       "publicId": "IMG_6683_vxzvwi",
@@ -244,6 +428,78 @@
   ],
   "Puerto Rico": [],
   "Tanzania": [
+    {
+      "url": "https://res.cloudinary.com/dlw5iyuu0/image/upload/v1783188885/IMG_8180_gk9pyo.jpg",
+      "publicId": "IMG_8180_gk9pyo",
+      "width": 4898,
+      "height": 3265,
+      "thumbnailUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_400,h_400,c_fill,q_auto,f_auto/v1783188885/IMG_8180_gk9pyo.jpg",
+      "fullUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_1200,q_auto,f_auto/v1783188885/IMG_8180_gk9pyo.jpg"
+    },
+    {
+      "url": "https://res.cloudinary.com/dlw5iyuu0/image/upload/v1783188883/IMG_7804_frgvi3.jpg",
+      "publicId": "IMG_7804_frgvi3",
+      "width": 4898,
+      "height": 3265,
+      "thumbnailUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_400,h_400,c_fill,q_auto,f_auto/v1783188883/IMG_7804_frgvi3.jpg",
+      "fullUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_1200,q_auto,f_auto/v1783188883/IMG_7804_frgvi3.jpg"
+    },
+    {
+      "url": "https://res.cloudinary.com/dlw5iyuu0/image/upload/v1783188882/IMG_6752_y6iuaj.jpg",
+      "publicId": "IMG_6752_y6iuaj",
+      "width": 4898,
+      "height": 3265,
+      "thumbnailUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_400,h_400,c_fill,q_auto,f_auto/v1783188882/IMG_6752_y6iuaj.jpg",
+      "fullUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_1200,q_auto,f_auto/v1783188882/IMG_6752_y6iuaj.jpg"
+    },
+    {
+      "url": "https://res.cloudinary.com/dlw5iyuu0/image/upload/v1783188880/IMG_7933_rfsknu.jpg",
+      "publicId": "IMG_7933_rfsknu",
+      "width": 4898,
+      "height": 3265,
+      "thumbnailUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_400,h_400,c_fill,q_auto,f_auto/v1783188880/IMG_7933_rfsknu.jpg",
+      "fullUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_1200,q_auto,f_auto/v1783188880/IMG_7933_rfsknu.jpg"
+    },
+    {
+      "url": "https://res.cloudinary.com/dlw5iyuu0/image/upload/v1783188879/IMG_8232_xio3cp.jpg",
+      "publicId": "IMG_8232_xio3cp",
+      "width": 4898,
+      "height": 3265,
+      "thumbnailUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_400,h_400,c_fill,q_auto,f_auto/v1783188879/IMG_8232_xio3cp.jpg",
+      "fullUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_1200,q_auto,f_auto/v1783188879/IMG_8232_xio3cp.jpg"
+    },
+    {
+      "url": "https://res.cloudinary.com/dlw5iyuu0/image/upload/v1783188877/IMG_7114_bgpr5s.jpg",
+      "publicId": "IMG_7114_bgpr5s",
+      "width": 4898,
+      "height": 3265,
+      "thumbnailUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_400,h_400,c_fill,q_auto,f_auto/v1783188877/IMG_7114_bgpr5s.jpg",
+      "fullUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_1200,q_auto,f_auto/v1783188877/IMG_7114_bgpr5s.jpg"
+    },
+    {
+      "url": "https://res.cloudinary.com/dlw5iyuu0/image/upload/v1783188876/IMG_7758_ugsmta.jpg",
+      "publicId": "IMG_7758_ugsmta",
+      "width": 4898,
+      "height": 3265,
+      "thumbnailUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_400,h_400,c_fill,q_auto,f_auto/v1783188876/IMG_7758_ugsmta.jpg",
+      "fullUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_1200,q_auto,f_auto/v1783188876/IMG_7758_ugsmta.jpg"
+    },
+    {
+      "url": "https://res.cloudinary.com/dlw5iyuu0/image/upload/v1783188874/IMG_7560_kc8xar.jpg",
+      "publicId": "IMG_7560_kc8xar",
+      "width": 3024,
+      "height": 4032,
+      "thumbnailUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_400,h_400,c_fill,q_auto,f_auto/v1783188874/IMG_7560_kc8xar.jpg",
+      "fullUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_1200,q_auto,f_auto/v1783188874/IMG_7560_kc8xar.jpg"
+    },
+    {
+      "url": "https://res.cloudinary.com/dlw5iyuu0/image/upload/v1783188872/IMG_7450_tkki5s.jpg",
+      "publicId": "IMG_7450_tkki5s",
+      "width": 4898,
+      "height": 3265,
+      "thumbnailUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_400,h_400,c_fill,q_auto,f_auto/v1783188872/IMG_7450_tkki5s.jpg",
+      "fullUrl": "https://res.cloudinary.com/dlw5iyuu0/image/upload/w_1200,q_auto,f_auto/v1783188872/IMG_7450_tkki5s.jpg"
+    },
     {
       "url": "https://res.cloudinary.com/dlw5iyuu0/image/upload/v1759438768/IMG_6024_yf4hxx.jpg",
       "publicId": "IMG_6024_yf4hxx",
