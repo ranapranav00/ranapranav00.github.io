@@ -19,6 +19,15 @@
       "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
     },
     {
+      "id": "13ubrt8QOOCPljQ2FL1Kca",
+      "name": "A$AP Rocky",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebad160b333f9a240f84aff7d7",
+      "genres": [
+        "rap"
+      ],
+      "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+    },
+    {
       "id": "5INjqkS1o8h1imAzPqGZBb",
       "name": "Tame Impala",
       "image": "https://i.scdn.co/image/ab6761610000e5ebe412a782245eb20d9626c601",
@@ -27,15 +36,6 @@
         "indie"
       ],
       "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-    },
-    {
-      "id": "13ubrt8QOOCPljQ2FL1Kca",
-      "name": "A$AP Rocky",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebad160b333f9a240f84aff7d7",
-      "genres": [
-        "rap"
-      ],
-      "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
     },
     {
       "id": "3Rq3YOF9YG9YfCWD4D56RZ",
