@@ -38,13 +38,11 @@
       "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
     },
     {
-      "id": "3Rq3YOF9YG9YfCWD4D56RZ",
-      "name": "Nujabes",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb57f19d2f179b00207bfb3155",
-      "genres": [
-        "jazz rap"
-      ],
-      "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
+      "id": "7gW0r5CkdEUMm42w9XpyZO",
+      "name": "Laufey",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebc751deb23ed62e7cadfb669a",
+      "genres": [],
+      "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
     }
   ],
   "tracks": [
