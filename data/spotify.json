@@ -28,6 +28,15 @@
       "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
     },
     {
+      "id": "3tlXnStJ1fFhdScmQeLpuG",
+      "name": "Brent Faiyaz",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb582fbf712f5b6a9bf65d9b84",
+      "genres": [
+        "r&b"
+      ],
+      "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+    },
+    {
       "id": "5INjqkS1o8h1imAzPqGZBb",
       "name": "Tame Impala",
       "image": "https://i.scdn.co/image/ab6761610000e5ebe412a782245eb20d9626c601",
@@ -36,15 +45,6 @@
         "indie"
       ],
       "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-    },
-    {
-      "id": "3tlXnStJ1fFhdScmQeLpuG",
-      "name": "Brent Faiyaz",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb582fbf712f5b6a9bf65d9b84",
-      "genres": [
-        "r&b"
-      ],
-      "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
     }
   ],
   "tracks": [
@@ -73,20 +73,20 @@
       "url": "https://open.spotify.com/track/3hZbi8AG14hRw5Skg7V8pl"
     },
     {
-      "id": "3Q2RZh5dlBuqaeDIxPeieP",
-      "name": "Pretty Green Eyes (Sunset Ibiza Mix)",
-      "artist": "KETTAMA",
-      "album": "Pretty Green Eyes (Sunset Ibiza Mix)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273edcf69db6e31c9c69870cac7",
-      "url": "https://open.spotify.com/track/3Q2RZh5dlBuqaeDIxPeieP"
-    },
-    {
       "id": "5goqVeMYUQecvpcjNxpadU",
       "name": "Feet Don't Fail Me Now",
       "artist": "Joy Crookes",
       "album": "Skin",
       "image": "https://i.scdn.co/image/ab67616d0000b273fbc65345f46a31184123c8bc",
       "url": "https://open.spotify.com/track/5goqVeMYUQecvpcjNxpadU"
+    },
+    {
+      "id": "3Q2RZh5dlBuqaeDIxPeieP",
+      "name": "Pretty Green Eyes (Sunset Ibiza Mix)",
+      "artist": "KETTAMA",
+      "album": "Pretty Green Eyes (Sunset Ibiza Mix)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273edcf69db6e31c9c69870cac7",
+      "url": "https://open.spotify.com/track/3Q2RZh5dlBuqaeDIxPeieP"
     }
   ]
 }
