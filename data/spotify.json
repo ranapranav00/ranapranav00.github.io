@@ -19,6 +19,13 @@
       "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
     },
     {
+      "id": "57vWImR43h4CaDao012Ofp",
+      "name": "Steve Lacy",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb7e3150cffbfda40c6eaf28dd",
+      "genres": [],
+      "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+    },
+    {
       "id": "3tlXnStJ1fFhdScmQeLpuG",
       "name": "Brent Faiyaz",
       "image": "https://i.scdn.co/image/ab6761610000e5eb582fbf712f5b6a9bf65d9b84",
@@ -35,13 +42,6 @@
         "rap"
       ],
       "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-    },
-    {
-      "id": "20wkVLutqVOYrc0kxFs7rA",
-      "name": "Daniel Caesar",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebe4d94f7cbebb17504c25d419",
-      "genres": [],
-      "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
     }
   ],
   "tracks": [
