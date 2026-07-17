@@ -19,15 +19,6 @@
       "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
     },
     {
-      "id": "13ubrt8QOOCPljQ2FL1Kca",
-      "name": "A$AP Rocky",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebad160b333f9a240f84aff7d7",
-      "genres": [
-        "rap"
-      ],
-      "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-    },
-    {
       "id": "3tlXnStJ1fFhdScmQeLpuG",
       "name": "Brent Faiyaz",
       "image": "https://i.scdn.co/image/ab6761610000e5eb582fbf712f5b6a9bf65d9b84",
@@ -37,14 +28,20 @@
       "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
     },
     {
-      "id": "5INjqkS1o8h1imAzPqGZBb",
-      "name": "Tame Impala",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebe412a782245eb20d9626c601",
+      "id": "13ubrt8QOOCPljQ2FL1Kca",
+      "name": "A$AP Rocky",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebad160b333f9a240f84aff7d7",
       "genres": [
-        "neo-psychedelic",
-        "indie"
+        "rap"
       ],
-      "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+      "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+    },
+    {
+      "id": "20wkVLutqVOYrc0kxFs7rA",
+      "name": "Daniel Caesar",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebe4d94f7cbebb17504c25d419",
+      "genres": [],
+      "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
     }
   ],
   "tracks": [
