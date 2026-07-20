@@ -26,15 +26,6 @@
       "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
     },
     {
-      "id": "3tlXnStJ1fFhdScmQeLpuG",
-      "name": "Brent Faiyaz",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb582fbf712f5b6a9bf65d9b84",
-      "genres": [
-        "r&b"
-      ],
-      "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-    },
-    {
       "id": "0Y5tJX1MQlPlqiwlOH1tJY",
       "name": "Travis Scott",
       "image": "https://i.scdn.co/image/ab6761610000e5eb19c2790744c792d05570bb71",
@@ -42,6 +33,13 @@
         "rap"
       ],
       "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+    },
+    {
+      "id": "4Gso3d4CscCijv0lmajZWs",
+      "name": "Don Toliver",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebc52b798deb89eb8414a51b7b",
+      "genres": [],
+      "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
     }
   ],
   "tracks": [
