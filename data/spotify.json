@@ -1,13 +1,11 @@
 {
   "artists": [
     {
-      "id": "5K4W6rqBFWDnAN6FQUkS6x",
-      "name": "Kanye West",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
-      "genres": [
-        "rap"
-      ],
-      "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+      "id": "07YZf4WDAMNwqr4jfgOZ8y",
+      "name": "Jason Derulo",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebfb65e1af01cf95c25bd29ed1",
+      "genres": [],
+      "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
     },
     {
       "id": "57vWImR43h4CaDao012Ofp",
@@ -15,13 +13,6 @@
       "image": "https://i.scdn.co/image/ab6761610000e5eb7e3150cffbfda40c6eaf28dd",
       "genres": [],
       "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-    },
-    {
-      "id": "07YZf4WDAMNwqr4jfgOZ8y",
-      "name": "Jason Derulo",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebfb65e1af01cf95c25bd29ed1",
-      "genres": [],
-      "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
     },
     {
       "id": "0Y5tJX1MQlPlqiwlOH1tJY",
@@ -40,6 +31,15 @@
         "rap"
       ],
       "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+    },
+    {
+      "id": "5K4W6rqBFWDnAN6FQUkS6x",
+      "name": "Kanye West",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
+      "genres": [
+        "rap"
+      ],
+      "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
     }
   ],
   "tracks": [
