@@ -15,15 +15,6 @@
       "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
     },
     {
-      "id": "0Y5tJX1MQlPlqiwlOH1tJY",
-      "name": "Travis Scott",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb19c2790744c792d05570bb71",
-      "genres": [
-        "rap"
-      ],
-      "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-    },
-    {
       "id": "3TVXtAsR1Inumwj472S9r4",
       "name": "Drake",
       "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
@@ -40,17 +31,16 @@
         "rap"
       ],
       "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+    },
+    {
+      "id": "1grN0519h2zYqpRtYbDZAl",
+      "name": "Larry June",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb1c0b980410ff1016569fb371",
+      "genres": [],
+      "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
     }
   ],
   "tracks": [
-    {
-      "id": "1OWBh1eVxUdA1Z6UA8r4nh",
-      "name": "the feeling",
-      "artist": "Steve Lacy",
-      "album": "Oh yeah?",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734ea9ba86cd9506a004bab042",
-      "url": "https://open.spotify.com/track/1OWBh1eVxUdA1Z6UA8r4nh"
-    },
     {
       "id": "5dxgZCSp8CDx4WS9CQWYQG",
       "name": "sakpase",
@@ -58,6 +48,14 @@
       "album": "The Last Wun",
       "image": "https://i.scdn.co/image/ab67616d0000b27303a253cffd6d9e556ef4eec5",
       "url": "https://open.spotify.com/track/5dxgZCSp8CDx4WS9CQWYQG"
+    },
+    {
+      "id": "1OWBh1eVxUdA1Z6UA8r4nh",
+      "name": "the feeling",
+      "artist": "Steve Lacy",
+      "album": "Oh yeah?",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734ea9ba86cd9506a004bab042",
+      "url": "https://open.spotify.com/track/1OWBh1eVxUdA1Z6UA8r4nh"
     },
     {
       "id": "40iJIUlhi6renaREYGeIDS",
