@@ -8,11 +8,11 @@
       "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
     },
     {
-      "id": "57vWImR43h4CaDao012Ofp",
-      "name": "Steve Lacy",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb7e3150cffbfda40c6eaf28dd",
+      "id": "1grN0519h2zYqpRtYbDZAl",
+      "name": "Larry June",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb1c0b980410ff1016569fb371",
       "genres": [],
-      "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+      "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
     },
     {
       "id": "6X5L6rmyvrWWu60Gx6exiZ",
@@ -22,20 +22,20 @@
       "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
     },
     {
-      "id": "1grN0519h2zYqpRtYbDZAl",
-      "name": "Larry June",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb1c0b980410ff1016569fb371",
+      "id": "57vWImR43h4CaDao012Ofp",
+      "name": "Steve Lacy",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb7e3150cffbfda40c6eaf28dd",
       "genres": [],
-      "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+      "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
     },
     {
-      "id": "5K4W6rqBFWDnAN6FQUkS6x",
-      "name": "Kanye West",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
+      "id": "4TkCMPznXOjlsYLfzIU1rw",
+      "name": "Geek Music",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb7c3e821249e3b4455323cc6d",
       "genres": [
-        "rap"
+        "anime"
       ],
-      "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+      "url": "https://open.spotify.com/artist/4TkCMPznXOjlsYLfzIU1rw"
     }
   ],
   "tracks": [
@@ -46,14 +46,6 @@
       "album": "Oh yeah?",
       "image": "https://i.scdn.co/image/ab67616d0000b2734ea9ba86cd9506a004bab042",
       "url": "https://open.spotify.com/track/1OWBh1eVxUdA1Z6UA8r4nh"
-    },
-    {
-      "id": "22NHkFYbgxB2Zirj29Gbp8",
-      "name": "oh yeah?",
-      "artist": "Steve Lacy",
-      "album": "Oh yeah?",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734ea9ba86cd9506a004bab042",
-      "url": "https://open.spotify.com/track/22NHkFYbgxB2Zirj29Gbp8"
     },
     {
       "id": "40iJIUlhi6renaREYGeIDS",
@@ -70,6 +62,14 @@
       "album": "One of Wun",
       "image": "https://i.scdn.co/image/ab67616d0000b2739a0cbe7c93bc691f48f356ed",
       "url": "https://open.spotify.com/track/6EUcP55GlbmsmCzfL2vxtZ"
+    },
+    {
+      "id": "3hZbi8AG14hRw5Skg7V8pl",
+      "name": "Classic",
+      "artist": "Drake",
+      "album": "HABIBTI",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b92879e45761d711016476df",
+      "url": "https://open.spotify.com/track/3hZbi8AG14hRw5Skg7V8pl"
     },
     {
       "id": "5dxgZCSp8CDx4WS9CQWYQG",
