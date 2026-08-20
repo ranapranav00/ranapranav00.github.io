@@ -58,14 +58,6 @@
       "url": "https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS"
     },
     {
-      "id": "6EUcP55GlbmsmCzfL2vxtZ",
-      "name": "on one tonight",
-      "artist": "Gunna",
-      "album": "One of Wun",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739a0cbe7c93bc691f48f356ed",
-      "url": "https://open.spotify.com/track/6EUcP55GlbmsmCzfL2vxtZ"
-    },
-    {
       "id": "3hZbi8AG14hRw5Skg7V8pl",
       "name": "Classic",
       "artist": "Drake",
@@ -80,6 +72,14 @@
       "album": "The Last Wun",
       "image": "https://i.scdn.co/image/ab67616d0000b27303a253cffd6d9e556ef4eec5",
       "url": "https://open.spotify.com/track/5dxgZCSp8CDx4WS9CQWYQG"
+    },
+    {
+      "id": "4RKJRRd4VJfZWiqQTYsleE",
+      "name": "Already Best Friends (feat. Chris Brown)",
+      "artist": "Jack Harlow, Chris Brown",
+      "album": "Thats What They All Say",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736c97899926c43255b4238dfa",
+      "url": "https://open.spotify.com/track/4RKJRRd4VJfZWiqQTYsleE"
     }
   ]
 }
