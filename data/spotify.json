@@ -11,9 +11,7 @@
       "id": "6X5L6rmyvrWWu60Gx6exiZ",
       "name": "54 Ultra",
       "image": "https://i.scdn.co/image/ab6761610000e5eb8fdf273bf26657879cccdc74",
-      "genres": [
-        "retro soul"
-      ],
+      "genres": [],
       "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
     },
     {
@@ -64,6 +62,14 @@
       "url": "https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS"
     },
     {
+      "id": "07SnvbvFJ1jUzpoBp9N4Cc",
+      "name": "addiction - Slowed",
+      "artist": "LONOWN, Asenssia",
+      "album": "captivation",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c7452f04ba13cbd28e22c44e",
+      "url": "https://open.spotify.com/track/07SnvbvFJ1jUzpoBp9N4Cc"
+    },
+    {
       "id": "3hZbi8AG14hRw5Skg7V8pl",
       "name": "Classic",
       "artist": "Drake",
@@ -78,14 +84,6 @@
       "album": "The Last Wun",
       "image": "https://i.scdn.co/image/ab67616d0000b27303a253cffd6d9e556ef4eec5",
       "url": "https://open.spotify.com/track/5dxgZCSp8CDx4WS9CQWYQG"
-    },
-    {
-      "id": "4RKJRRd4VJfZWiqQTYsleE",
-      "name": "Already Best Friends (feat. Chris Brown)",
-      "artist": "Jack Harlow, Chris Brown",
-      "album": "Thats What They All Say",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736c97899926c43255b4238dfa",
-      "url": "https://open.spotify.com/track/4RKJRRd4VJfZWiqQTYsleE"
     }
   ]
 }
