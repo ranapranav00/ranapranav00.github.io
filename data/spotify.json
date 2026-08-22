@@ -22,15 +22,6 @@
       "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
     },
     {
-      "id": "4TkCMPznXOjlsYLfzIU1rw",
-      "name": "Geek Music",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb7c3e821249e3b4455323cc6d",
-      "genres": [
-        "anime"
-      ],
-      "url": "https://open.spotify.com/artist/4TkCMPznXOjlsYLfzIU1rw"
-    },
-    {
       "id": "2BPwxhCvvcb8xDl8GWIjbh",
       "name": "Odeal",
       "image": "https://i.scdn.co/image/ab6761610000e5eb6b6814d1e1a9551310e23034",
@@ -42,6 +33,15 @@
         "afrobeats"
       ],
       "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+    },
+    {
+      "id": "3TVXtAsR1Inumwj472S9r4",
+      "name": "Drake",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
+      "genres": [
+        "rap"
+      ],
+      "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
     }
   ],
   "tracks": [
