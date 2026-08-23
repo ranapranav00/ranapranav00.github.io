@@ -46,22 +46,6 @@
   ],
   "tracks": [
     {
-      "id": "1OWBh1eVxUdA1Z6UA8r4nh",
-      "name": "the feeling",
-      "artist": "Steve Lacy",
-      "album": "Oh yeah?",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734ea9ba86cd9506a004bab042",
-      "url": "https://open.spotify.com/track/1OWBh1eVxUdA1Z6UA8r4nh"
-    },
-    {
-      "id": "40iJIUlhi6renaREYGeIDS",
-      "name": "Fair Trade (with Travis Scott)",
-      "artist": "Drake, Travis Scott",
-      "album": "Certified Lover Boy",
-      "image": "https://i.scdn.co/image/ab67616d0000b273cd945b4e3de57edd28481a3f",
-      "url": "https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS"
-    },
-    {
       "id": "07SnvbvFJ1jUzpoBp9N4Cc",
       "name": "addiction - Slowed",
       "artist": "LONOWN, Asenssia",
@@ -78,12 +62,28 @@
       "url": "https://open.spotify.com/track/3hZbi8AG14hRw5Skg7V8pl"
     },
     {
-      "id": "5dxgZCSp8CDx4WS9CQWYQG",
-      "name": "sakpase",
-      "artist": "Gunna",
-      "album": "The Last Wun",
-      "image": "https://i.scdn.co/image/ab67616d0000b27303a253cffd6d9e556ef4eec5",
-      "url": "https://open.spotify.com/track/5dxgZCSp8CDx4WS9CQWYQG"
+      "id": "4RKJRRd4VJfZWiqQTYsleE",
+      "name": "Already Best Friends (feat. Chris Brown)",
+      "artist": "Jack Harlow, Chris Brown",
+      "album": "Thats What They All Say",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736c97899926c43255b4238dfa",
+      "url": "https://open.spotify.com/track/4RKJRRd4VJfZWiqQTYsleE"
+    },
+    {
+      "id": "1OWBh1eVxUdA1Z6UA8r4nh",
+      "name": "the feeling",
+      "artist": "Steve Lacy",
+      "album": "Oh yeah?",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734ea9ba86cd9506a004bab042",
+      "url": "https://open.spotify.com/track/1OWBh1eVxUdA1Z6UA8r4nh"
+    },
+    {
+      "id": "22NHkFYbgxB2Zirj29Gbp8",
+      "name": "oh yeah?",
+      "artist": "Steve Lacy",
+      "album": "Oh yeah?",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734ea9ba86cd9506a004bab042",
+      "url": "https://open.spotify.com/track/22NHkFYbgxB2Zirj29Gbp8"
     }
   ]
 }
