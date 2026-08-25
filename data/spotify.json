@@ -1,13 +1,6 @@
 {
   "artists": [
     {
-      "id": "07YZf4WDAMNwqr4jfgOZ8y",
-      "name": "Jason Derulo",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebfb65e1af01cf95c25bd29ed1",
-      "genres": [],
-      "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-    },
-    {
       "id": "6X5L6rmyvrWWu60Gx6exiZ",
       "name": "54 Ultra",
       "image": "https://i.scdn.co/image/ab6761610000e5eb8fdf273bf26657879cccdc74",
@@ -20,6 +13,15 @@
       "image": "https://i.scdn.co/image/ab6761610000e5eb7e3150cffbfda40c6eaf28dd",
       "genres": [],
       "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+    },
+    {
+      "id": "2hlmm7s2ICUX0LVIhVFlZQ",
+      "name": "Gunna",
+      "image": "https://i.scdn.co/image/ab6761610000e5eba998bc86f87b9fe7e2466110",
+      "genres": [
+        "melodic rap"
+      ],
+      "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
     },
     {
       "id": "2BPwxhCvvcb8xDl8GWIjbh",
