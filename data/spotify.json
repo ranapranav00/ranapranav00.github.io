@@ -1,6 +1,13 @@
 {
   "artists": [
     {
+      "id": "4HzKw8XcD0piJmDrrPRCYk",
+      "name": "Majid Jordan",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb743697cd03046f6889408136",
+      "genres": [],
+      "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+    },
+    {
       "id": "57vWImR43h4CaDao012Ofp",
       "name": "Steve Lacy",
       "image": "https://i.scdn.co/image/ab6761610000e5eb7e3150cffbfda40c6eaf28dd",
@@ -31,15 +38,6 @@
         "melodic rap"
       ],
       "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-    },
-    {
-      "id": "0Y5tJX1MQlPlqiwlOH1tJY",
-      "name": "Travis Scott",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb19c2790744c792d05570bb71",
-      "genres": [
-        "rap"
-      ],
-      "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
     }
   ],
   "tracks": [
