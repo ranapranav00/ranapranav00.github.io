@@ -66,20 +66,20 @@
       "url": "https://open.spotify.com/track/22NHkFYbgxB2Zirj29Gbp8"
     },
     {
-      "id": "1OWBh1eVxUdA1Z6UA8r4nh",
-      "name": "the feeling",
-      "artist": "Steve Lacy",
-      "album": "Oh yeah?",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734ea9ba86cd9506a004bab042",
-      "url": "https://open.spotify.com/track/1OWBh1eVxUdA1Z6UA8r4nh"
-    },
-    {
       "id": "1YmF9PvLhIISIANoMLIYGq",
       "name": "A$AP Forever (feat. Moby)",
       "artist": "A$AP Rocky, Moby",
       "album": "A$AP Forever (feat. Moby)",
       "image": "https://i.scdn.co/image/ab67616d0000b2739ef69f2cf1038634bd541509",
       "url": "https://open.spotify.com/track/1YmF9PvLhIISIANoMLIYGq"
+    },
+    {
+      "id": "2T3vYzsy7BuHDR8bhwxyIp",
+      "name": "addiction",
+      "artist": "LONOWN, Asenssia",
+      "album": "captivation",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c7452f04ba13cbd28e22c44e",
+      "url": "https://open.spotify.com/track/2T3vYzsy7BuHDR8bhwxyIp"
     }
   ]
 }
