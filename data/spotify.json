@@ -1,6 +1,15 @@
 {
   "artists": [
     {
+      "id": "3SozjO3Lat463tQICI9LcE",
+      "name": "Tyla",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb69719e4164b893213a525d25",
+      "genres": [
+        "afrobeats"
+      ],
+      "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+    },
+    {
       "id": "4HzKw8XcD0piJmDrrPRCYk",
       "name": "Majid Jordan",
       "image": "https://i.scdn.co/image/ab6761610000e5eb743697cd03046f6889408136",
@@ -29,15 +38,6 @@
         "rap"
       ],
       "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-    },
-    {
-      "id": "2hlmm7s2ICUX0LVIhVFlZQ",
-      "name": "Gunna",
-      "image": "https://i.scdn.co/image/ab6761610000e5eba998bc86f87b9fe7e2466110",
-      "genres": [
-        "melodic rap"
-      ],
-      "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
     }
   ],
   "tracks": [
