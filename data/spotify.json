@@ -24,13 +24,6 @@
       "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
     },
     {
-      "id": "6X5L6rmyvrWWu60Gx6exiZ",
-      "name": "54 Ultra",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb8fdf273bf26657879cccdc74",
-      "genres": [],
-      "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
-    },
-    {
       "id": "5K4W6rqBFWDnAN6FQUkS6x",
       "name": "Kanye West",
       "image": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
@@ -38,6 +31,15 @@
         "rap"
       ],
       "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+    },
+    {
+      "id": "2hlmm7s2ICUX0LVIhVFlZQ",
+      "name": "Gunna",
+      "image": "https://i.scdn.co/image/ab6761610000e5eba998bc86f87b9fe7e2466110",
+      "genres": [
+        "melodic rap"
+      ],
+      "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
     }
   ],
   "tracks": [
