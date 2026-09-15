@@ -35,11 +35,14 @@
       "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
     },
     {
-      "id": "57vWImR43h4CaDao012Ofp",
-      "name": "Steve Lacy",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb7e3150cffbfda40c6eaf28dd",
-      "genres": [],
-      "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+      "id": "7kNqXtgeIwFtelmRjWv205",
+      "name": "John Summit",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb20662b32f3dbabad755dfb53",
+      "genres": [
+        "house",
+        "tech house"
+      ],
+      "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
     }
   ],
   "tracks": [
