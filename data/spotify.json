@@ -47,6 +47,14 @@
   ],
   "tracks": [
     {
+      "id": "273ESJO18WuQ1u0EdiY1rq",
+      "name": "SHADOWS",
+      "artist": "John Summit, LAVINIA",
+      "album": "CTRL ESCAPE",
+      "image": "https://i.scdn.co/image/ab67616d0000b273edd455c68b4f20c12a76c8c6",
+      "url": "https://open.spotify.com/track/273ESJO18WuQ1u0EdiY1rq"
+    },
+    {
       "id": "07SnvbvFJ1jUzpoBp9N4Cc",
       "name": "addiction - Slowed",
       "artist": "LONOWN, Asenssia",
@@ -63,14 +71,6 @@
       "url": "https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R"
     },
     {
-      "id": "273ESJO18WuQ1u0EdiY1rq",
-      "name": "SHADOWS",
-      "artist": "John Summit, LAVINIA",
-      "album": "CTRL ESCAPE",
-      "image": "https://i.scdn.co/image/ab67616d0000b273edd455c68b4f20c12a76c8c6",
-      "url": "https://open.spotify.com/track/273ESJO18WuQ1u0EdiY1rq"
-    },
-    {
       "id": "1KbLVz3ZcdUOt2wBXqU2cG",
       "name": "What A Life",
       "artist": "John Summit, Guz, Stevie Appleton",
@@ -79,12 +79,12 @@
       "url": "https://open.spotify.com/track/1KbLVz3ZcdUOt2wBXqU2cG"
     },
     {
-      "id": "2T3vYzsy7BuHDR8bhwxyIp",
-      "name": "addiction",
-      "artist": "LONOWN, Asenssia",
-      "album": "captivation",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c7452f04ba13cbd28e22c44e",
-      "url": "https://open.spotify.com/track/2T3vYzsy7BuHDR8bhwxyIp"
+      "id": "2ZIry1Xixcqw4IJExyEKDz",
+      "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
+      "artist": "Tyla, Zara Larsson",
+      "album": "A*POP",
+      "image": "https://i.scdn.co/image/ab67616d0000b273441fbf593020d8e56eca0fdb",
+      "url": "https://open.spotify.com/track/2ZIry1Xixcqw4IJExyEKDz"
     }
   ]
 }
