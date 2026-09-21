@@ -36,13 +36,13 @@
       "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
     },
     {
-      "id": "2hlmm7s2ICUX0LVIhVFlZQ",
-      "name": "Gunna",
-      "image": "https://i.scdn.co/image/ab6761610000e5eba998bc86f87b9fe7e2466110",
+      "id": "3TVXtAsR1Inumwj472S9r4",
+      "name": "Drake",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
       "genres": [
-        "melodic rap"
+        "rap"
       ],
-      "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+      "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
     }
   ],
   "tracks": [
@@ -55,14 +55,6 @@
       "url": "https://open.spotify.com/track/273ESJO18WuQ1u0EdiY1rq"
     },
     {
-      "id": "2wGSgTmgSF3xjRrHkTc25R",
-      "name": "Hate It Or Love It",
-      "artist": "The Game, 50 Cent",
-      "album": "The Documentary",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b1d860ab1ba847e778b2796d",
-      "url": "https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R"
-    },
-    {
       "id": "1KbLVz3ZcdUOt2wBXqU2cG",
       "name": "What A Life",
       "artist": "John Summit, Guz, Stevie Appleton",
@@ -71,12 +63,12 @@
       "url": "https://open.spotify.com/track/1KbLVz3ZcdUOt2wBXqU2cG"
     },
     {
-      "id": "07SnvbvFJ1jUzpoBp9N4Cc",
-      "name": "addiction - Slowed",
-      "artist": "LONOWN, Asenssia",
-      "album": "captivation",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c7452f04ba13cbd28e22c44e",
-      "url": "https://open.spotify.com/track/07SnvbvFJ1jUzpoBp9N4Cc"
+      "id": "2wGSgTmgSF3xjRrHkTc25R",
+      "name": "Hate It Or Love It",
+      "artist": "The Game, 50 Cent",
+      "album": "The Documentary",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b1d860ab1ba847e778b2796d",
+      "url": "https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R"
     },
     {
       "id": "2ZIry1Xixcqw4IJExyEKDz",
@@ -85,6 +77,14 @@
       "album": "A*POP",
       "image": "https://i.scdn.co/image/ab67616d0000b273441fbf593020d8e56eca0fdb",
       "url": "https://open.spotify.com/track/2ZIry1Xixcqw4IJExyEKDz"
+    },
+    {
+      "id": "5aIVCx5tnk0ntmdiinnYvw",
+      "name": "Water",
+      "artist": "Tyla",
+      "album": "Water",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d20231861e86a6f74ef2393e",
+      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
     }
   ]
 }
