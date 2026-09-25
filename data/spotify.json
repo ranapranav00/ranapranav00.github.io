@@ -27,15 +27,6 @@
       "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
     },
     {
-      "id": "5K4W6rqBFWDnAN6FQUkS6x",
-      "name": "Kanye West",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
-      "genres": [
-        "rap"
-      ],
-      "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-    },
-    {
       "id": "0Y5tJX1MQlPlqiwlOH1tJY",
       "name": "Travis Scott",
       "image": "https://i.scdn.co/image/ab6761610000e5eb19c2790744c792d05570bb71",
@@ -43,6 +34,15 @@
         "rap"
       ],
       "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+    },
+    {
+      "id": "3TVXtAsR1Inumwj472S9r4",
+      "name": "Drake",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
+      "genres": [
+        "rap"
+      ],
+      "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
     }
   ],
   "tracks": [
