@@ -20,13 +20,6 @@
       "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
     },
     {
-      "id": "4HzKw8XcD0piJmDrrPRCYk",
-      "name": "Majid Jordan",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb743697cd03046f6889408136",
-      "genres": [],
-      "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
-    },
-    {
       "id": "4oLeXFyACqeem2VImYeBFe",
       "name": "Fred again..",
       "image": "https://i.scdn.co/image/ab6761610000e5ebf760292919aee89e58d943d9",
@@ -45,6 +38,15 @@
         "rap"
       ],
       "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+    },
+    {
+      "id": "4TkCMPznXOjlsYLfzIU1rw",
+      "name": "Geek Music",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb7c3e821249e3b4455323cc6d",
+      "genres": [
+        "anime"
+      ],
+      "url": "https://open.spotify.com/artist/4TkCMPznXOjlsYLfzIU1rw"
     }
   ],
   "tracks": [
