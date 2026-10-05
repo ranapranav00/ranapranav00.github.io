@@ -31,15 +31,6 @@
       "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
     },
     {
-      "id": "4TkCMPznXOjlsYLfzIU1rw",
-      "name": "Geek Music",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb7c3e821249e3b4455323cc6d",
-      "genres": [
-        "anime"
-      ],
-      "url": "https://open.spotify.com/artist/4TkCMPznXOjlsYLfzIU1rw"
-    },
-    {
       "id": "3an9rnsXKPCAMlZgH4A0n4",
       "name": "KETTAMA",
       "image": "https://i.scdn.co/image/ab6761610000e5eb65eb52c5da399f337626be07",
@@ -49,6 +40,15 @@
         "uk garage"
       ],
       "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+    },
+    {
+      "id": "4TkCMPznXOjlsYLfzIU1rw",
+      "name": "Geek Music",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb7c3e821249e3b4455323cc6d",
+      "genres": [
+        "anime"
+      ],
+      "url": "https://open.spotify.com/artist/4TkCMPznXOjlsYLfzIU1rw"
     }
   ],
   "tracks": [
