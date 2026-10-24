@@ -1,6 +1,16 @@
 {
   "artists": [
     {
+      "id": "3MekbRujJg5VZThubOlrkR",
+      "name": "Ninajirachi",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb6363b3a1630b8811a4d3d718",
+      "genres": [
+        "hyperpop",
+        "electroclash"
+      ],
+      "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+    },
+    {
       "id": "7kNqXtgeIwFtelmRjWv205",
       "name": "John Summit",
       "image": "https://i.scdn.co/image/ab6761610000e5eb20662b32f3dbabad755dfb53",
@@ -40,19 +50,17 @@
         "uk garage"
       ],
       "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
-    },
-    {
-      "id": "3BxjasMelf9pKaE4f7Y0So",
-      "name": "CHRIS STASSY",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb4cc3d7f3a3274ecfe6692aa6",
-      "genres": [
-        "house",
-        "tech house"
-      ],
-      "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
     }
   ],
   "tracks": [
+    {
+      "id": "0CVbCtcdXAIw00YBXXbneu",
+      "name": "Delete",
+      "artist": "Ninajirachi",
+      "album": "I Love My Computer",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733b9b742c5c525af6e6767d87",
+      "url": "https://open.spotify.com/track/0CVbCtcdXAIw00YBXXbneu"
+    },
     {
       "id": "2KYNQpVdHsqC84TgJa5T7O",
       "name": "LA ESPADA",
@@ -70,14 +78,6 @@
       "url": "https://open.spotify.com/track/273ESJO18WuQ1u0EdiY1rq"
     },
     {
-      "id": "110uH4IxKOINJBWCy9J23k",
-      "name": "One Piece (1999) - Overtaken",
-      "artist": "Geek Music",
-      "album": "The Anime Collection Volume One",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731d56e46f3ebfe89377b035a6",
-      "url": "https://open.spotify.com/track/110uH4IxKOINJBWCy9J23k"
-    },
-    {
       "id": "2wRKES8HKm4EutRHz7JD1x",
       "name": "light years (feat. Inéz)",
       "artist": "John Summit, Inéz",
@@ -86,12 +86,12 @@
       "url": "https://open.spotify.com/track/2wRKES8HKm4EutRHz7JD1x"
     },
     {
-      "id": "2wGSgTmgSF3xjRrHkTc25R",
-      "name": "Hate It Or Love It",
-      "artist": "The Game, 50 Cent",
-      "album": "The Documentary",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b1d860ab1ba847e778b2796d",
-      "url": "https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R"
+      "id": "0qubDCNLgEKECDhRSq7Q38",
+      "name": "ฅ^•ﻌ•^ฅ",
+      "artist": "Ninajirachi",
+      "album": "I Love My Computer",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733b9b742c5c525af6e6767d87",
+      "url": "https://open.spotify.com/track/0qubDCNLgEKECDhRSq7Q38"
     }
   ]
 }
