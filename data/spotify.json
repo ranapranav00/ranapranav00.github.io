@@ -1,16 +1,6 @@
 {
   "artists": [
     {
-      "id": "3MekbRujJg5VZThubOlrkR",
-      "name": "Ninajirachi",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb6363b3a1630b8811a4d3d718",
-      "genres": [
-        "hyperpop",
-        "electroclash"
-      ],
-      "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
-    },
-    {
       "id": "7kNqXtgeIwFtelmRjWv205",
       "name": "John Summit",
       "image": "https://i.scdn.co/image/ab6761610000e5eb20662b32f3dbabad755dfb53",
@@ -19,6 +9,16 @@
         "tech house"
       ],
       "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+    },
+    {
+      "id": "3MekbRujJg5VZThubOlrkR",
+      "name": "Ninajirachi",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb6363b3a1630b8811a4d3d718",
+      "genres": [
+        "hyperpop",
+        "electroclash"
+      ],
+      "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
     },
     {
       "id": "4oLeXFyACqeem2VImYeBFe",
@@ -62,20 +62,20 @@
       "url": "https://open.spotify.com/track/0CVbCtcdXAIw00YBXXbneu"
     },
     {
-      "id": "2KYNQpVdHsqC84TgJa5T7O",
-      "name": "LA ESPADA",
-      "artist": "Eternal Raijin",
-      "album": "LA ESPADA",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ec821dcc0f5d5e9bd0f8df0a",
-      "url": "https://open.spotify.com/track/2KYNQpVdHsqC84TgJa5T7O"
-    },
-    {
       "id": "273ESJO18WuQ1u0EdiY1rq",
       "name": "SHADOWS",
       "artist": "John Summit, LAVINIA",
       "album": "CTRL ESCAPE",
       "image": "https://i.scdn.co/image/ab67616d0000b273edd455c68b4f20c12a76c8c6",
       "url": "https://open.spotify.com/track/273ESJO18WuQ1u0EdiY1rq"
+    },
+    {
+      "id": "2KYNQpVdHsqC84TgJa5T7O",
+      "name": "LA ESPADA",
+      "artist": "Eternal Raijin",
+      "album": "LA ESPADA",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ec821dcc0f5d5e9bd0f8df0a",
+      "url": "https://open.spotify.com/track/2KYNQpVdHsqC84TgJa5T7O"
     },
     {
       "id": "2wRKES8HKm4EutRHz7JD1x",
@@ -86,12 +86,12 @@
       "url": "https://open.spotify.com/track/2wRKES8HKm4EutRHz7JD1x"
     },
     {
-      "id": "0qubDCNLgEKECDhRSq7Q38",
-      "name": "ฅ^•ﻌ•^ฅ",
-      "artist": "Ninajirachi",
-      "album": "I Love My Computer",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733b9b742c5c525af6e6767d87",
-      "url": "https://open.spotify.com/track/0qubDCNLgEKECDhRSq7Q38"
+      "id": "1UW8sPgNOx7Roe3oWzhiQK",
+      "name": "Simple Rules (ft Kurtis Wells)",
+      "artist": "ANOTR, Kurtis Wells",
+      "album": "On A Trip",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bc468eb72512a5d0a7d47493",
+      "url": "https://open.spotify.com/track/1UW8sPgNOx7Roe3oWzhiQK"
     }
   ]
 }
