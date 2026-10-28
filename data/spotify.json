@@ -11,6 +11,16 @@
       "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
     },
     {
+      "id": "3MekbRujJg5VZThubOlrkR",
+      "name": "Ninajirachi",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb6363b3a1630b8811a4d3d718",
+      "genres": [
+        "hyperpop",
+        "electroclash"
+      ],
+      "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+    },
+    {
       "id": "4p5WgeiPSPpqPDs7T6OkWf",
       "name": "ANOTR",
       "image": "https://i.scdn.co/image/ab6761610000e5eb48b2dcdf9a2e05e01694cc57",
@@ -20,14 +30,14 @@
       "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
     },
     {
-      "id": "3MekbRujJg5VZThubOlrkR",
-      "name": "Ninajirachi",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb6363b3a1630b8811a4d3d718",
+      "id": "0rTh1tAdrEbdKZBTiiAQSo",
+      "name": "Mochakk",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb179f55f074b7be92efd1a369",
       "genres": [
-        "hyperpop",
-        "electroclash"
+        "tech house",
+        "house"
       ],
-      "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+      "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
     },
     {
       "id": "4oLeXFyACqeem2VImYeBFe",
@@ -39,16 +49,6 @@
         "edm"
       ],
       "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-    },
-    {
-      "id": "0rTh1tAdrEbdKZBTiiAQSo",
-      "name": "Mochakk",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb179f55f074b7be92efd1a369",
-      "genres": [
-        "tech house",
-        "house"
-      ],
-      "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
     }
   ],
   "tracks": [
