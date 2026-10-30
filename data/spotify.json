@@ -21,15 +21,6 @@
       "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
     },
     {
-      "id": "4p5WgeiPSPpqPDs7T6OkWf",
-      "name": "ANOTR",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb48b2dcdf9a2e05e01694cc57",
-      "genres": [
-        "house"
-      ],
-      "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
-    },
-    {
       "id": "0L5GV6LN8SWWUWIdBbTLTZ",
       "name": "Shankar-Ehsaan-Loy",
       "image": "https://i.scdn.co/image/ab6761610000e5eb3db0499a689aa9b4a47ebba3",
@@ -40,6 +31,15 @@
         "hindi pop"
       ],
       "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+    },
+    {
+      "id": "4p5WgeiPSPpqPDs7T6OkWf",
+      "name": "ANOTR",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb48b2dcdf9a2e05e01694cc57",
+      "genres": [
+        "house"
+      ],
+      "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
     },
     {
       "id": "0rTh1tAdrEbdKZBTiiAQSo",
@@ -62,12 +62,12 @@
       "url": "https://open.spotify.com/track/0CVbCtcdXAIw00YBXXbneu"
     },
     {
-      "id": "1UW8sPgNOx7Roe3oWzhiQK",
-      "name": "Simple Rules (ft Kurtis Wells)",
-      "artist": "ANOTR, Kurtis Wells",
-      "album": "On A Trip",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bc468eb72512a5d0a7d47493",
-      "url": "https://open.spotify.com/track/1UW8sPgNOx7Roe3oWzhiQK"
+      "id": "2KYNQpVdHsqC84TgJa5T7O",
+      "name": "LA ESPADA",
+      "artist": "Eternal Raijin",
+      "album": "LA ESPADA",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ec821dcc0f5d5e9bd0f8df0a",
+      "url": "https://open.spotify.com/track/2KYNQpVdHsqC84TgJa5T7O"
     },
     {
       "id": "2IZxoVkMYXvSDZ9bJLKgZM",
@@ -78,20 +78,20 @@
       "url": "https://open.spotify.com/track/2IZxoVkMYXvSDZ9bJLKgZM"
     },
     {
-      "id": "39hHUnYBmyMwprzRaPODCX",
-      "name": "Free Your Mind",
-      "artist": "Prospa, Cloonee, Sybil",
-      "album": "Free Your Mind",
-      "image": "https://i.scdn.co/image/ab67616d0000b273586475e0e7697109f9c69a49",
-      "url": "https://open.spotify.com/track/39hHUnYBmyMwprzRaPODCX"
+      "id": "1UW8sPgNOx7Roe3oWzhiQK",
+      "name": "Simple Rules (ft Kurtis Wells)",
+      "artist": "ANOTR, Kurtis Wells",
+      "album": "On A Trip",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bc468eb72512a5d0a7d47493",
+      "url": "https://open.spotify.com/track/1UW8sPgNOx7Roe3oWzhiQK"
     },
     {
-      "id": "1hJN8hZvzEvOvqX32jSSrw",
-      "name": "where's my head at _",
-      "artist": "Basement Jaxx, 100 gecs",
-      "album": "where's my head at _",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736631be482e2fbedd45de9e5d",
-      "url": "https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw"
+      "id": "2y8mkajKikV5S1PRCMQ5WL",
+      "name": "KALYANI (with Shreya Ghoshal) - Remix",
+      "artist": "ARJN, KDS, FIFTY4, Shreya Ghoshal",
+      "album": "KALYANI (with Shreya Ghoshal) [Remix]",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739aa819fdf84c78fc1976391d",
+      "url": "https://open.spotify.com/track/2y8mkajKikV5S1PRCMQ5WL"
     }
   ]
 }
