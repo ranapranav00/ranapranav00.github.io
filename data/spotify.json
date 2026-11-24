@@ -43,13 +43,15 @@
       "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
     },
     {
-      "id": "2PZfVEEMQs0qMtk8fQodwz",
-      "name": "Souumil",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebb3b5eca7d8ec3161a3464900",
+      "id": "0GF4shudTAFv8ak9eWdd4Y",
+      "name": "Kishore Kumar",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebc9ac92d87de28795c1c49730",
       "genres": [
-        "gujarati garba"
+        "ghazal",
+        "bangla pop",
+        "hindi pop"
       ],
-      "url": "https://open.spotify.com/artist/2PZfVEEMQs0qMtk8fQodwz"
+      "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
     }
   ],
   "tracks": [
