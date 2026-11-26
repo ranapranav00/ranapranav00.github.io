@@ -32,6 +32,20 @@
       "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
     },
     {
+      "id": "0y59o4v8uw5crbN9M3JiL1",
+      "name": "Badshah",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebc2b02f1ca1503fa275fb7a10",
+      "genres": [
+        "bollywood",
+        "desi",
+        "desi hip hop",
+        "hindi pop",
+        "hindi hip hop",
+        "desi pop"
+      ],
+      "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+    },
+    {
       "id": "7kNqXtgeIwFtelmRjWv205",
       "name": "John Summit",
       "image": "https://i.scdn.co/image/ab6761610000e5eb20662b32f3dbabad755dfb53",
@@ -41,17 +55,6 @@
         "edm"
       ],
       "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-    },
-    {
-      "id": "0GF4shudTAFv8ak9eWdd4Y",
-      "name": "Kishore Kumar",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebc9ac92d87de28795c1c49730",
-      "genres": [
-        "ghazal",
-        "bangla pop",
-        "hindi pop"
-      ],
-      "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
     }
   ],
   "tracks": [
