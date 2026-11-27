@@ -22,16 +22,6 @@
       "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
     },
     {
-      "id": "3MekbRujJg5VZThubOlrkR",
-      "name": "Ninajirachi",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb6363b3a1630b8811a4d3d718",
-      "genres": [
-        "hyperpop",
-        "electroclash"
-      ],
-      "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
-    },
-    {
       "id": "0y59o4v8uw5crbN9M3JiL1",
       "name": "Badshah",
       "image": "https://i.scdn.co/image/ab6761610000e5ebc2b02f1ca1503fa275fb7a10",
@@ -44,6 +34,16 @@
         "desi pop"
       ],
       "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+    },
+    {
+      "id": "3MekbRujJg5VZThubOlrkR",
+      "name": "Ninajirachi",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb6363b3a1630b8811a4d3d718",
+      "genres": [
+        "hyperpop",
+        "electroclash"
+      ],
+      "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
     },
     {
       "id": "7kNqXtgeIwFtelmRjWv205",
@@ -59,20 +59,20 @@
   ],
   "tracks": [
     {
-      "id": "2IZxoVkMYXvSDZ9bJLKgZM",
-      "name": "Virah",
-      "artist": "Shankar-Ehsaan-Loy, Shankar Mahadevan",
-      "album": "Bandish Bandits (Original Series Soundtrack)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27395d94edff0afa0f27e146b2e",
-      "url": "https://open.spotify.com/track/2IZxoVkMYXvSDZ9bJLKgZM"
-    },
-    {
       "id": "5u4hhtZ7f4rWkMZEZcTKrH",
       "name": "Relax My Eyes",
       "artist": "ANOTR, Abel Balder",
       "album": "Relax My Eyes",
       "image": "https://i.scdn.co/image/ab67616d0000b273eedb2366a9c2fbb8503c703e",
       "url": "https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH"
+    },
+    {
+      "id": "2IZxoVkMYXvSDZ9bJLKgZM",
+      "name": "Virah",
+      "artist": "Shankar-Ehsaan-Loy, Shankar Mahadevan",
+      "album": "Bandish Bandits (Original Series Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27395d94edff0afa0f27e146b2e",
+      "url": "https://open.spotify.com/track/2IZxoVkMYXvSDZ9bJLKgZM"
     },
     {
       "id": "5eWlwaw7MOWdw8QXEGhfN4",
@@ -83,20 +83,20 @@
       "url": "https://open.spotify.com/track/5eWlwaw7MOWdw8QXEGhfN4"
     },
     {
-      "id": "1TOQb1AwnZLzrAu4VXZUIO",
-      "name": "Garaj Garaj Jugalbandi",
-      "artist": "Shankar-Ehsaan-Loy, Farid Hasan, Mohammed Aman",
-      "album": "Bandish Bandits (Original Series Soundtrack)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27395d94edff0afa0f27e146b2e",
-      "url": "https://open.spotify.com/track/1TOQb1AwnZLzrAu4VXZUIO"
-    },
-    {
       "id": "4hFDFmMnSYZ32ssqNUOCjt",
       "name": "Magnetic",
       "artist": "The Bausa",
       "album": "Magnetic / Addicted To Your Love",
       "image": "https://i.scdn.co/image/ab67616d0000b273158cbe80b9b9573b46d2b50f",
       "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
+    },
+    {
+      "id": "1TOQb1AwnZLzrAu4VXZUIO",
+      "name": "Garaj Garaj Jugalbandi",
+      "artist": "Shankar-Ehsaan-Loy, Farid Hasan, Mohammed Aman",
+      "album": "Bandish Bandits (Original Series Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27395d94edff0afa0f27e146b2e",
+      "url": "https://open.spotify.com/track/1TOQb1AwnZLzrAu4VXZUIO"
     }
   ]
 }
